@@ -1,0 +1,6 @@
+age gender
+9 boy
+11 girl
+8 boy
+15 boy
+10 girl
