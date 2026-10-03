@@ -1,0 +1,946 @@
+student_id,gender,department,study_hours_week,attendance_pct,sleep_hours,prior_gpa,part_time_job,midterm_score,final_score,passed,grade,improvement,study_level,sleep_group,attend_c
+S0779,NA,Statistics,11.4,80,6,2.81,Yes,47,47,0,F,0,Medium,Enough,-1.9002217294900277
+S0335,Female,Statistics,9.2,91,6.3,3.89,No,60,58,1,C,-2,Low,Enough,9.099778270509972
+S0272,Male,Economics,21.1,90,6.8,3.54,No,65,59,1,C,-6,High,Enough,8.099778270509972
+S0803,Male,Statistics,11.3,90,7.9,3.86,No,NA,61,1,B,NA,Medium,Enough,8.099778270509972
+S0217,Male,Physics,13.3,88,8.3,3.23,No,54,67,1,B,13,Medium,Enough,6.099778270509972
+S0409,Female,Physics,4.5,72,6.9,4,No,48,41,0,F,-7,Low,Enough,-9.900221729490028
+S0813,Male,Statistics,8.2,97,8.8,2.71,Yes,62,63,1,B,1,Low,Enough,15.099778270509972
+S0095,Female,Computer Science,27.7,82,7.4,3.5,Yes,60,75,1,A,15,High,Enough,0.09977827050997234
+S0488,Female,Computer Science,14.7,82,7.5,3.71,No,75,74,1,A,-1,Medium,Enough,0.09977827050997234
+S0171,Male,Economics,14.8,70,6.6,3.2,No,48,57,1,C,9,Medium,Enough,-11.900221729490028
+S0025,Female,Economics,16.3,87,7.5,2.78,No,NA,55,1,C,NA,Medium,Enough,5.099778270509972
+S0243,Female,NA,16.8,80,5.7,2.47,No,46,47,0,F,1,Medium,Short,-1.9002217294900277
+S0543,Male,Biology,11.8,88,6.6,4,No,54,60,1,B,6,Medium,Enough,6.099778270509972
+S0931,Female,Computer Science,23.9,61,7.4,2.99,No,68,57,1,C,-11,High,Enough,-20.900221729490028
+S0887,Female,Statistics,8.6,79,7.3,3.54,No,40,56,1,C,16,Low,Enough,-2.9002217294900277
+S0427,Female,Economics,14.5,96,8,3.49,Yes,67,66,1,B,-1,Medium,Enough,14.099778270509972
+S0126,Female,Economics,NA,73,5.7,NA,No,59,44,0,F,-15,NA,Short,-8.900221729490028
+S0454,Male,Physics,20.9,94,4.3,4,No,70,70,1,A,0,High,Short,12.099778270509972
+S0651,Male,Statistics,9.3,93,6.9,3.28,No,63,60,1,B,-3,Low,Enough,11.099778270509972
+S0914,Female,Economics,15.6,91,7.9,3.65,No,68,70,1,A,2,Medium,Enough,9.099778270509972
+S0777,Male,Statistics,12.3,90,5.6,NA,Yes,57,58,1,C,1,Medium,Short,8.099778270509972
+S0573,Male,Physics,19.2,78,6.9,3.32,No,63,63,1,B,0,High,Enough,-3.9002217294900277
+S0849,Female,Biology,12.1,81,5.4,3.35,No,49,56,1,C,7,Medium,Short,-0.9002217294900277
+S0876,Male,Biology,16,89,5.9,3.01,No,62,63,1,B,1,Medium,Short,7.099778270509972
+S0591,Male,Computer Science,11.6,95,7,NA,No,49,56,1,C,7,Medium,Enough,13.099778270509972
+S0026,Female,Economics,17,81,5.2,2.93,No,62,55,1,C,-7,Medium,Short,-0.9002217294900277
+S0485,Male,Biology,14.3,98,6.9,3.06,No,68,68,1,B,0,Medium,Enough,16.099778270509972
+S0706,Male,Computer Science,15,83,7.1,3.56,Yes,54,60,1,B,6,Medium,Enough,1.0997782705099723
+S0890,Female,Economics,15.3,98,6.6,2.77,Yes,56,47,0,F,-9,Medium,Enough,16.099778270509972
+S0682,Male,Biology,13.1,84,6.5,3,Yes,45,55,1,C,10,Medium,Enough,2.0997782705099723
+S0014,Female,NA,9.8,75,5.4,3.19,No,46,43,0,F,-3,Low,Short,-6.900221729490028
+S0880,Female,Statistics,10.6,69,6.3,3.22,No,46,54,1,C,8,Medium,Enough,-12.900221729490028
+S0278,Male,NA,4.9,79,7.3,3.66,No,NA,54,1,C,NA,Low,Enough,-2.9002217294900277
+S0317,Male,Statistics,12.6,73,6,2.45,Yes,52,50,1,C,-2,Medium,Enough,-8.900221729490028
+S0300,Male,Biology,20.7,63,4.9,3.11,Yes,54,45,0,F,-9,High,Short,-18.900221729490028
+S0114,Female,Computer Science,18.4,89,6,3.56,Yes,73,58,1,C,-15,High,Enough,7.099778270509972
+S0963,Male,Biology,20.7,NA,6,3.85,No,62,68,1,B,6,High,Enough,NA
+S0570,Female,Statistics,12.1,82,7.2,4,Yes,NA,63,1,B,NA,Medium,Enough,0.09977827050997234
+S0061,Female,Statistics,10.8,NA,5.6,3.06,Yes,43,49,0,F,6,Medium,Short,NA
+S0714,NA,Economics,19.1,81,6.8,3.95,No,NA,65,1,B,NA,High,Enough,-0.9002217294900277
+S0716,Female,Statistics,4.3,86,7.2,3.79,No,62,48,0,F,-14,Low,Enough,4.099778270509972
+S0726,Male,Physics,9,85,5.2,3.99,No,53,41,0,F,-12,Low,Short,3.0997782705099723
+S0708,Male,Biology,14.3,67,6.7,3.68,Yes,57,49,0,F,-8,Medium,Enough,-14.900221729490028
+S0759,Male,Statistics,18.2,91,6.1,2.88,Yes,55,63,1,B,8,High,Enough,9.099778270509972
+S0340,Male,Statistics,13.3,85,6.1,3.39,No,NA,68,1,B,NA,Medium,Enough,3.0997782705099723
+S0734,Female,Physics,9.4,87,7.8,3.37,No,62,57,1,C,-5,Low,Enough,5.099778270509972
+S0980,Female,Physics,19,90,8.6,2.09,Yes,53,51,1,C,-2,High,Enough,8.099778270509972
+S0100,Female,Physics,11.2,91,7.5,2.87,Yes,56,49,0,F,-7,Medium,Enough,9.099778270509972
+S0961,Female,Statistics,12.7,82,5.8,2.76,Yes,48,55,1,C,7,Medium,Short,0.09977827050997234
+S0290,Male,Biology,8.7,85,8.6,2.84,No,53,51,1,C,-2,Low,Enough,3.0997782705099723
+S0975,Female,NA,12,NA,6.1,2.65,No,46,38,0,F,-8,Medium,Enough,NA
+S0035,Male,Economics,19.2,87,6.1,3.31,Yes,57,59,1,C,2,High,Enough,5.099778270509972
+S0054,Male,Computer Science,13.2,89,6.3,3.72,Yes,51,62,1,B,11,Medium,Enough,7.099778270509972
+S0320,Female,Statistics,16,85,7.4,3.05,No,60,67,1,B,7,Medium,Enough,3.0997782705099723
+S0957,Male,Computer Science,12.7,86,6.2,3.34,Yes,52,53,1,C,1,Medium,Enough,4.099778270509972
+S0907,Female,Statistics,18.1,77,8.9,3.27,No,53,64,1,B,11,High,Enough,-4.900221729490028
+S0787,Male,Computer Science,22.4,99,6.6,2.24,No,62,63,1,B,1,High,Enough,17.099778270509972
+S0942,Male,Economics,5.1,93,5.9,2.5,No,38,51,1,C,13,Low,Short,11.099778270509972
+S0702,Male,Economics,21.9,83,7.2,3.25,No,67,66,1,B,-1,High,Enough,1.0997782705099723
+S0455,Male,Physics,19.7,75,6.6,3.13,Yes,59,61,1,B,2,High,Enough,-6.900221729490028
+S0363,Male,Economics,12.7,NA,7,3.38,Yes,40,40,0,F,0,Medium,Enough,NA
+S0684,Female,Computer Science,18.4,76,7.1,3.59,No,51,57,1,C,6,High,Enough,-5.900221729490028
+S0165,Male,Computer Science,NA,100,6.5,3.26,Yes,39,42,0,F,3,NA,Enough,18.099778270509972
+S0474,Female,Physics,24.8,84,6,2.96,Yes,44,61,1,B,17,High,Enough,2.0997782705099723
+S0378,Female,Statistics,18.8,79,5.8,3.65,Yes,NA,65,1,B,NA,High,Short,-2.9002217294900277
+S0373,Female,Biology,15.4,91,5.9,3.2,NA,56,53,1,C,-3,Medium,Short,9.099778270509972
+S0309,Male,Physics,14.3,90,5.9,2.25,No,46,48,0,F,2,Medium,Short,8.099778270509972
+S0846,Male,Physics,14.9,100,7.6,NA,No,49,59,1,C,10,Medium,Enough,18.099778270509972
+S0588,Female,Economics,20.2,83,8.1,3.25,No,68,74,1,A,6,High,Enough,1.0997782705099723
+S0906,Female,Economics,14.2,81,8.7,3.3,Yes,57,54,1,C,-3,Medium,Enough,-0.9002217294900277
+S0348,Male,Statistics,14.2,83,7.1,3.69,No,63,68,1,B,5,Medium,Enough,1.0997782705099723
+S0690,Male,Computer Science,16.6,82,6.3,2.31,No,44,49,0,F,5,Medium,Enough,0.09977827050997234
+S0109,Female,Biology,16.6,78,7.3,2.35,Yes,46,43,0,F,-3,Medium,Enough,-3.9002217294900277
+S0694,NA,Statistics,8,75,5.7,NA,No,46,47,0,F,1,Low,Short,-6.900221729490028
+S0257,Male,Statistics,13.1,63,7.3,3.08,No,45,54,1,C,9,Medium,Enough,-18.900221729490028
+S0791,Male,Statistics,15.7,93,6.8,2.72,No,48,50,1,C,2,Medium,Enough,11.099778270509972
+S0473,Male,Economics,12.4,77,8.1,3.43,No,56,54,1,C,-2,Medium,Enough,-4.900221729490028
+S0603,Female,Biology,13,63,6.6,3.52,No,55,53,1,C,-2,Medium,Enough,-18.900221729490028
+S0811,Female,Computer Science,NA,77,6,2.77,No,44,51,1,C,7,NA,Enough,-4.900221729490028
+S0930,Female,Physics,27.2,84,7.5,3.42,Yes,58,67,1,B,9,High,Enough,2.0997782705099723
+S0352,Male,Statistics,14.9,65,5.1,2.51,No,48,50,1,C,2,Medium,Short,-16.900221729490028
+S0542,Male,Economics,15.7,NA,6.1,NA,No,44,40,0,F,-4,Medium,Enough,NA
+S0229,Male,Economics,16,79,7.7,3.34,No,45,73,1,A,28,Medium,Enough,-2.9002217294900277
+S0205,Female,Physics,NA,81,NA,2.91,No,37,40,0,F,3,NA,NA,-0.9002217294900277
+S0625,Male,Statistics,13.2,84,6.9,2.5,Yes,49,41,0,F,-8,Medium,Enough,2.0997782705099723
+S0783,Female,Economics,19.8,79,7.4,2.59,Yes,54,61,1,B,7,High,Enough,-2.9002217294900277
+S0967,Male,Physics,17.1,94,6.5,2.93,No,57,62,1,B,5,Medium,Enough,12.099778270509972
+S0154,Male,Economics,21,100,7.1,3.85,Yes,65,71,1,A,6,High,Enough,18.099778270509972
+S0677,Female,Economics,9.6,84,4.6,3.66,No,40,38,0,F,-2,Low,Short,2.0997782705099723
+S0027,Female,Economics,16.2,80,7.9,3.38,No,58,63,1,B,5,Medium,Enough,-1.9002217294900277
+S0058,Female,Economics,8.4,75,5.7,3.63,Yes,57,55,1,C,-2,Low,Short,-6.900221729490028
+S0047,Female,Economics,13.8,82,4.9,2.93,No,55,53,1,C,-2,Medium,Short,0.09977827050997234
+S0099,Male,Statistics,8.5,83,6.7,2.44,Yes,46,30,0,F,-16,Low,Enough,1.0997782705099723
+S0972,Male,Economics,14.4,90,6.7,3.47,No,58,66,1,B,8,Medium,Enough,8.099778270509972
+S0740,Male,Physics,5.1,100,5.2,NA,No,56,41,0,F,-15,Low,Short,18.099778270509972
+S0298,Female,Economics,NA,96,7.4,3.27,No,63,59,1,C,-4,NA,Enough,14.099778270509972
+S0973,Female,Physics,15.9,76,7.4,NA,No,55,61,1,B,6,Medium,Enough,-5.900221729490028
+S0141,Female,Computer Science,26.2,76,NA,2.99,No,64,77,1,A,13,High,NA,-5.900221729490028
+S0654,Female,Economics,NA,81,6.8,2.99,No,58,53,1,C,-5,NA,Enough,-0.9002217294900277
+S0644,Female,Economics,13.7,80,6.3,2.49,Yes,45,41,0,F,-4,Medium,Enough,-1.9002217294900277
+S0423,Male,Economics,16.6,86,4.9,3.21,No,54,62,1,B,8,Medium,Short,4.099778270509972
+S0260,Male,Physics,8.2,97,4.3,2.74,Yes,33,41,0,F,8,Low,Short,15.099778270509972
+S0889,Male,Economics,10.6,68,6,2.38,No,49,46,0,F,-3,Medium,Enough,-13.900221729490028
+S0064,Male,Physics,21.9,100,7.2,2.38,No,54,55,1,C,1,High,Enough,18.099778270509972
+S0886,Male,Economics,13.8,99,6.4,2.63,No,58,43,0,F,-15,Medium,Enough,17.099778270509972
+S0955,Female,Biology,10.4,81,9,3.04,No,53,53,1,C,0,Medium,Enough,-0.9002217294900277
+S0730,Female,Physics,24.8,92,5.8,3.01,Yes,57,66,1,B,9,High,Short,10.099778270509972
+S0510,Male,Economics,5.5,100,6.5,2.47,No,46,41,0,F,-5,Low,Enough,18.099778270509972
+S0683,Female,Statistics,14,80,6.4,4,No,70,78,1,A,8,Medium,Enough,-1.9002217294900277
+S0686,Female,Physics,9.4,71,NA,3.44,Yes,48,37,0,F,-11,Low,NA,-10.900221729490028
+S0782,Male,Biology,17.1,72,6.7,3.46,No,63,58,1,C,-5,Medium,Enough,-9.900221729490028
+S0147,Female,Biology,15.8,NA,NA,2.93,No,54,61,1,B,7,Medium,NA,NA
+S0466,Female,Computer Science,15.7,70,7.1,3.37,NA,53,51,1,C,-2,Medium,Enough,-11.900221729490028
+S0918,Female,NA,12.8,NA,5.4,3.14,No,40,43,0,F,3,Medium,Short,NA
+S0968,Male,Physics,16.9,92,6.4,2.47,Yes,50,53,1,C,3,Medium,Enough,10.099778270509972
+S0271,Male,Computer Science,22.5,90,7.4,2.75,No,59,56,1,C,-3,High,Enough,8.099778270509972
+S0545,Male,Biology,21.2,79,7.9,3.2,No,55,66,1,B,11,High,Enough,-2.9002217294900277
+S0404,NA,Statistics,8.4,80,5.8,4,No,52,62,1,B,10,Low,Short,-1.9002217294900277
+S0111,Male,Economics,9.4,88,6.2,3.13,No,48,50,1,C,2,Low,Enough,6.099778270509972
+S0172,Male,Biology,15.6,61,6.8,3.62,Yes,57,54,1,C,-3,Medium,Enough,-20.900221729490028
+S0952,Male,Economics,14.6,99,7.1,3.42,NA,65,71,1,A,6,Medium,Enough,17.099778270509972
+S0802,Male,Biology,13.1,76,8.7,2.53,No,NA,51,1,C,NA,Medium,Enough,-5.900221729490028
+S0899,Female,Physics,10.8,76,7.3,3.27,No,51,53,1,C,2,Medium,Enough,-5.900221729490028
+S0010,Male,Computer Science,13.2,76,6.8,3.05,No,NA,58,1,C,NA,Medium,Enough,-5.900221729490028
+S0768,Male,Biology,12.5,75,7.9,2.98,No,52,56,1,C,4,Medium,Enough,-6.900221729490028
+S0206,Male,Statistics,10.1,90,5.7,2.74,No,51,54,1,C,3,Medium,Short,8.099778270509972
+S0512,Male,Computer Science,16.6,85,6,3.76,No,58,58,1,C,0,Medium,Enough,3.0997782705099723
+S0744,Female,Statistics,10.6,72,6.8,2.22,No,47,46,0,F,-1,Medium,Enough,-9.900221729490028
+S0331,Female,Physics,14.9,100,6.3,2.17,No,46,61,1,B,15,Medium,Enough,18.099778270509972
+S0933,Male,Physics,18.7,83,7.4,3.02,No,65,51,1,C,-14,High,Enough,1.0997782705099723
+S0358,Female,Economics,17.8,82,6.7,NA,No,56,57,1,C,1,Medium,Enough,0.09977827050997234
+S0062,Female,Statistics,12.3,94,5.9,3.13,No,NA,52,1,C,NA,Medium,Short,12.099778270509972
+S0707,Male,Economics,8.6,87,8,3.43,No,49,52,1,C,3,Low,Enough,5.099778270509972
+S0238,Female,Physics,14.7,89,NA,3.48,No,59,57,1,C,-2,Medium,NA,7.099778270509972
+S0780,Female,Computer Science,16.5,89,5.7,2.26,Yes,57,49,0,F,-8,Medium,Short,7.099778270509972
+S0985,Male,NA,15.5,86,NA,2.3,Yes,55,60,1,B,5,Medium,NA,4.099778270509972
+S0809,Male,Biology,10.1,77,6.1,3.45,No,55,53,1,C,-2,Medium,Enough,-4.900221729490028
+S0362,Female,Economics,10.2,58,6.3,3.58,No,48,52,1,C,4,Medium,Enough,-23.900221729490028
+S0587,NA,Economics,18.4,78,6.8,3.67,No,60,55,1,C,-5,High,Enough,-3.9002217294900277
+S0532,Male,Economics,3,100,6.5,3.66,Yes,47,44,0,F,-3,Low,Enough,18.099778270509972
+S0531,Male,Physics,7.6,76,7.9,3.4,No,52,47,0,F,-5,Low,Enough,-5.900221729490028
+S0110,Male,Statistics,15.4,81,6.6,2.57,Yes,60,58,1,C,-2,Medium,Enough,-0.9002217294900277
+S0858,NA,Statistics,12.6,70,7.6,3,Yes,48,57,1,C,9,Medium,Enough,-11.900221729490028
+S0306,Female,Physics,17,NA,7.4,2.82,No,41,43,0,F,2,Medium,Enough,NA
+S0468,Male,Biology,14.8,91,6.4,3.07,No,NA,61,1,B,NA,Medium,Enough,9.099778270509972
+S0737,Female,NA,21.5,NA,6.1,3.71,Yes,50,56,1,C,6,High,Enough,NA
+S0149,Female,Economics,19.3,70,7.6,3.11,Yes,55,54,1,C,-1,High,Enough,-11.900221729490028
+S0939,Male,Economics,NA,86,7.4,3.54,No,56,57,1,C,1,NA,Enough,4.099778270509972
+S0658,Female,Statistics,13.1,94,6,3.38,Yes,63,54,1,C,-9,Medium,Enough,12.099778270509972
+S0837,Male,Economics,11.2,76,6.3,3.56,No,49,39,0,F,-10,Medium,Enough,-5.900221729490028
+S0487,Male,Statistics,16.9,50,7.3,3.61,No,60,65,1,B,5,Medium,Enough,-31.900221729490028
+S0486,Male,Economics,2.5,91,7.2,2.97,NA,51,49,0,F,-2,Low,Enough,9.099778270509972
+S0660,Female,Computer Science,7.4,82,5.2,4,No,59,60,1,B,1,Low,Short,0.09977827050997234
+S0129,Female,Statistics,19.2,71,8.4,3.86,No,62,65,1,B,3,High,Enough,-10.900221729490028
+S0592,Female,Economics,8.1,80,8.1,NA,No,NA,43,0,F,NA,Low,Enough,-1.9002217294900277
+S0559,Male,Economics,NA,86,5.5,3.96,No,62,59,1,C,-3,NA,Short,4.099778270509972
+S0598,Female,Economics,5.7,77,7.7,2.79,No,42,38,0,F,-4,Low,Enough,-4.900221729490028
+S0500,Male,Economics,18.3,86,7,3.82,No,67,60,1,B,-7,High,Enough,4.099778270509972
+S0795,Female,Statistics,17.9,78,6.7,2.59,No,52,56,1,C,4,Medium,Enough,-3.9002217294900277
+S0322,Male,Economics,12.5,90,7.1,3.5,No,57,67,1,B,10,Medium,Enough,8.099778270509972
+S0472,Male,Computer Science,NA,69,8.7,3.1,NA,47,52,1,C,5,NA,Enough,-12.900221729490028
+S0595,Male,Statistics,24,85,NA,3.28,No,71,60,1,B,-11,High,NA,3.0997782705099723
+S0776,Female,Computer Science,18.4,69,6.9,3.2,No,64,57,1,C,-7,High,Enough,-12.900221729490028
+S0483,Male,Physics,12.1,68,7.6,2.67,No,44,46,0,F,2,Medium,Enough,-13.900221729490028
+S0710,Female,Computer Science,NA,85,6.4,2.72,NA,47,37,0,F,-10,NA,Enough,3.0997782705099723
+S0467,Female,Biology,21,70,5.6,3.38,Yes,NA,60,1,B,NA,High,Short,-11.900221729490028
+S0135,Male,Economics,13.1,64,5.2,3.74,No,33,39,0,F,6,Medium,Short,-17.900221729490028
+S0160,NA,Economics,11.9,74,6.3,3.93,No,62,60,1,B,-2,Medium,Enough,-7.900221729490028
+S0356,Male,Computer Science,8.6,80,7.6,4,No,64,64,1,B,0,Low,Enough,-1.9002217294900277
+S0327,Male,Economics,17.8,77,7.3,2.48,No,44,43,0,F,-1,Medium,Enough,-4.900221729490028
+S0397,Male,Economics,12.7,94,5.8,3.64,No,68,69,1,B,1,Medium,Short,12.099778270509972
+S0049,Male,Statistics,12.5,79,7.1,3.33,Yes,47,45,0,F,-2,Medium,Enough,-2.9002217294900277
+S0075,Female,Statistics,18.2,74,5.9,3.29,Yes,61,65,1,B,4,High,Short,-7.900221729490028
+S0750,Male,Biology,13.8,96,NA,4,No,49,59,1,C,10,Medium,NA,14.099778270509972
+S0800,Female,Statistics,18,83,8.2,3.38,No,58,68,1,B,10,High,Enough,1.0997782705099723
+S0839,Male,Computer Science,16.2,100,NA,NA,No,54,66,1,B,12,Medium,NA,18.099778270509972
+S0007,Female,Computer Science,16.9,92,6.4,3.22,No,56,63,1,B,7,Medium,Enough,10.099778270509972
+S0492,NA,Biology,14.2,81,5.7,3.45,Yes,58,49,0,F,-9,Medium,Short,-0.9002217294900277
+S0345,Female,Economics,13.4,93,7.3,3.07,No,58,66,1,B,8,Medium,Enough,11.099778270509972
+S0633,Male,Physics,3.4,100,6.1,3.12,No,52,52,1,C,0,Low,Enough,18.099778270509972
+S0615,Male,Statistics,6.5,89,4.7,2.85,Yes,45,46,0,F,1,Low,Short,7.099778270509972
+S0490,Female,Biology,13.1,90,7.3,3.22,No,61,61,1,B,0,Medium,Enough,8.099778270509972
+S0894,Female,Economics,20.4,86,7,3.98,No,53,67,1,B,14,High,Enough,4.099778270509972
+S0596,Male,Computer Science,16.1,87,6.9,3.24,No,57,69,1,B,12,Medium,Enough,5.099778270509972
+S0519,Male,Statistics,15.6,91,4.7,3.4,No,53,57,1,C,4,Medium,Short,9.099778270509972
+S0098,Male,Computer Science,NA,100,7.2,3.74,No,69,70,1,A,1,NA,Enough,18.099778270509972
+S0681,Female,Computer Science,7.3,79,7.9,NA,No,60,52,1,C,-8,Low,Enough,-2.9002217294900277
+S0286,Male,Physics,NA,69,6.3,3.34,Yes,50,56,1,C,6,NA,Enough,-12.900221729490028
+S0128,Female,Biology,13.4,73,5.8,2.68,No,44,52,1,C,8,Medium,Short,-8.900221729490028
+S0372,Male,Physics,17.4,80,7,3.1,Yes,42,51,1,C,9,Medium,Enough,-1.9002217294900277
+S0412,Male,Physics,20.7,86,7.5,3.69,No,66,73,1,A,7,High,Enough,4.099778270509972
+S0645,Male,Physics,NA,72,6.5,2.57,No,48,51,1,C,3,NA,Enough,-9.900221729490028
+S0982,Male,Biology,11.9,75,6.5,2.82,No,NA,51,1,C,NA,Medium,Enough,-6.900221729490028
+S0366,Female,Statistics,5.6,83,5.7,2.77,No,54,59,1,C,5,Low,Short,1.0997782705099723
+S0601,Male,Biology,3.7,57,7.3,2.5,No,40,42,0,F,2,Low,Enough,-24.900221729490028
+S0081,Female,Physics,17.3,80,8.5,NA,No,53,61,1,B,8,Medium,Enough,-1.9002217294900277
+S0159,Male,Biology,17,88,6.6,NA,No,64,70,1,A,6,Medium,Enough,6.099778270509972
+S0424,Male,Biology,18.3,81,6.1,3.69,No,60,65,1,B,5,High,Enough,-0.9002217294900277
+S0748,Male,Biology,14.5,77,7.3,3.1,No,52,45,0,F,-7,Medium,Enough,-4.900221729490028
+S0325,Male,Computer Science,12.1,75,NA,NA,No,48,51,1,C,3,Medium,NA,-6.900221729490028
+S0866,Female,Physics,21.8,85,8.8,2.49,No,60,61,1,B,1,High,Enough,3.0997782705099723
+S0781,Female,Computer Science,17.5,65,7.9,3.43,Yes,60,65,1,B,5,Medium,Enough,-16.900221729490028
+S0676,NA,Physics,13,NA,6.8,3.51,No,52,54,1,C,2,Medium,Enough,NA
+S0643,Female,Biology,9.9,94,9.1,3.64,No,63,58,1,C,-5,Low,Enough,12.099778270509972
+S0627,Male,Statistics,21.9,81,7.3,2.42,Yes,65,60,1,B,-5,High,Enough,-0.9002217294900277
+S0732,Female,Statistics,14.2,92,7.5,3.11,No,47,66,1,B,19,Medium,Enough,10.099778270509972
+S0285,Male,Statistics,18.7,62,6.2,NA,Yes,57,52,1,C,-5,High,Enough,-19.900221729490028
+S0438,Male,Computer Science,14.6,100,7.7,3.2,No,68,60,1,B,-8,Medium,Enough,18.099778270509972
+S0180,Male,Physics,19.1,82,5.9,3.57,No,61,58,1,C,-3,High,Short,0.09977827050997234
+S0871,Female,Computer Science,15.9,86,7.5,3.07,No,51,58,1,C,7,Medium,Enough,4.099778270509972
+S0840,Male,Computer Science,12.7,81,7.4,2.71,Yes,57,50,1,C,-7,Medium,Enough,-0.9002217294900277
+S0223,Female,Biology,NA,84,6.4,3.28,No,60,60,1,B,0,NA,Enough,2.0997782705099723
+S0123,Female,Physics,9,94,9.2,3.57,No,49,63,1,B,14,Low,Enough,12.099778270509972
+S0762,Female,Statistics,13.3,92,7.5,3.55,No,71,72,1,A,1,Medium,Enough,10.099778270509972
+S0953,Female,Statistics,16.6,100,7.9,2.29,No,54,65,1,B,11,Medium,Enough,18.099778270509972
+S0751,Male,Economics,10.5,79,6.8,4,No,63,60,1,B,-3,Medium,Enough,-2.9002217294900277
+S0874,Male,Biology,15.6,77,7.2,3.38,Yes,NA,55,1,C,NA,Medium,Enough,-4.900221729490028
+S0870,Male,Biology,7.1,74,6.8,2.54,No,38,35,0,F,-3,Low,Enough,-7.900221729490028
+S0448,Male,Statistics,22.8,77,6.8,3.71,Yes,62,61,1,B,-1,High,Enough,-4.900221729490028
+S0390,Female,Physics,12.7,92,6.2,3.1,No,43,62,1,B,19,Medium,Enough,10.099778270509972
+S0432,Female,Economics,7.8,71,6.1,2.53,Yes,36,34,0,F,-2,Low,Enough,-10.900221729490028
+S0245,Female,Biology,10.8,73,9,2.83,No,56,55,1,C,-1,Medium,Enough,-8.900221729490028
+S0385,Female,Statistics,12.8,64,NA,2.47,No,49,56,1,C,7,Medium,NA,-17.900221729490028
+S0680,Male,Statistics,11.5,85,7.7,3.08,NA,54,72,1,A,18,Medium,Enough,3.0997782705099723
+S0221,Male,Economics,7.3,NA,6,2.57,Yes,37,28,0,F,-9,Low,Enough,NA
+S0450,Male,Physics,21.2,96,6.8,3.4,Yes,47,59,1,C,12,High,Enough,14.099778270509972
+S0016,Male,NA,19.2,83,7.2,3.58,Yes,52,59,1,C,7,High,Enough,1.0997782705099723
+S0553,Female,Economics,13.3,81,6.5,2.83,NA,45,43,0,F,-2,Medium,Enough,-0.9002217294900277
+S0524,NA,Statistics,11.1,94,8,NA,No,67,71,1,A,4,Medium,Enough,12.099778270509972
+S0396,Male,Computer Science,6,91,5.3,NA,No,40,57,1,C,17,Low,Short,9.099778270509972
+S0254,Male,Biology,19.1,67,7.8,3.9,Yes,48,54,1,C,6,High,Enough,-14.900221729490028
+S0935,Female,Statistics,10.3,93,6.4,2.65,Yes,44,37,0,F,-7,Medium,Enough,11.099778270509972
+S0794,Female,NA,20.2,93,7.2,3.41,Yes,65,56,1,C,-9,High,Enough,11.099778270509972
+S0847,Male,Statistics,13.2,68,6.3,2.55,Yes,38,42,0,F,4,Medium,Enough,-13.900221729490028
+S0361,Female,Physics,12.9,NA,7.3,3.34,Yes,45,37,0,F,-8,Medium,Enough,NA
+S0606,Male,Economics,19.9,81,8.1,3.72,No,62,57,1,C,-5,High,Enough,-0.9002217294900277
+S0767,Female,Biology,20.6,61,4.9,3.28,Yes,58,50,1,C,-8,High,Short,-20.900221729490028
+S0173,Male,Physics,26.9,92,7.6,3.18,NA,70,59,1,C,-11,High,Enough,10.099778270509972
+S0687,Male,Statistics,17.1,71,6.5,3.72,No,56,59,1,C,3,Medium,Enough,-10.900221729490028
+S0148,Female,Economics,15.8,69,7.3,3.14,No,51,49,0,F,-2,Medium,Enough,-12.900221729490028
+S0187,Male,Statistics,13.4,85,6,3.34,Yes,51,56,1,C,5,Medium,Enough,3.0997782705099723
+S0044,Female,Computer Science,19,NA,NA,2.89,No,70,70,1,A,0,High,NA,NA
+S0617,Male,Physics,NA,85,7.8,3.44,No,50,56,1,C,6,NA,Enough,3.0997782705099723
+S0529,Female,Statistics,11,82,5.7,2.8,No,58,58,1,C,0,Medium,Short,0.09977827050997234
+S0926,Female,Physics,9.4,75,4.9,NA,No,39,40,0,F,1,Low,Short,-6.900221729490028
+S0297,Male,Statistics,18,94,6.9,3.07,No,69,77,1,A,8,High,Enough,12.099778270509972
+S0604,Male,Economics,11.1,85,NA,3.74,Yes,48,49,0,F,1,Medium,NA,3.0997782705099723
+S0139,Male,Computer Science,14.4,92,7,2.94,No,62,57,1,C,-5,Medium,Enough,10.099778270509972
+S0055,Male,Statistics,5.8,95,6.9,3.08,No,39,44,0,F,5,Low,Enough,13.099778270509972
+S0670,Female,Computer Science,21.6,67,6.6,3.26,No,63,60,1,B,-3,High,Enough,-14.900221729490028
+S0052,Male,Biology,13.8,62,8.1,3.33,No,63,56,1,C,-7,Medium,Enough,-19.900221729490028
+S0820,Male,Economics,10.2,92,6.4,2.81,No,49,52,1,C,3,Medium,Enough,10.099778270509972
+S0319,Male,Biology,16,81,8.7,3.83,Yes,53,45,0,F,-8,Medium,Enough,-0.9002217294900277
+S0023,Female,Biology,17.9,86,7.2,2.72,No,60,56,1,C,-4,Medium,Enough,4.099778270509972
+S0501,Male,Statistics,3.8,80,6.4,3.16,No,40,38,0,F,-2,Low,Enough,-1.9002217294900277
+S0801,Male,Statistics,23.8,82,6.6,3.22,No,56,78,1,A,22,High,Enough,0.09977827050997234
+S0210,Male,Statistics,19.4,82,5.8,3.31,No,70,61,1,B,-9,High,Short,0.09977827050997234
+S0713,Female,Computer Science,19.7,97,7.2,3.17,No,57,67,1,B,10,High,Enough,15.099778270509972
+S0143,Male,Computer Science,3.7,83,5.8,3.39,No,54,47,0,F,-7,Low,Short,1.0997782705099723
+S0051,Female,Statistics,17,82,8,3.39,Yes,56,51,1,C,-5,Medium,Enough,0.09977827050997234
+S0167,Female,Economics,1,89,6,2.2,No,46,42,0,F,-4,Low,Enough,7.099778270509972
+S0622,Male,Statistics,14.1,99,5.1,3.28,Yes,61,55,1,C,-6,Medium,Short,17.099778270509972
+S0656,Male,Computer Science,NA,88,7.8,2.97,No,56,59,1,C,3,NA,Enough,6.099778270509972
+S0082,Male,Statistics,13.9,75,7.2,2.95,No,52,59,1,C,7,Medium,Enough,-6.900221729490028
+S0667,Male,Statistics,11.8,87,7.1,2.38,No,55,56,1,C,1,Medium,Enough,5.099778270509972
+S0984,Female,Computer Science,4.5,88,6.7,3.36,Yes,45,52,1,C,7,Low,Enough,6.099778270509972
+S0901,Female,Biology,23.7,93,5.5,3.42,NA,65,65,1,B,0,High,Short,11.099778270509972
+S0067,Male,Statistics,15.8,70,7.2,2.52,No,38,49,0,F,11,Medium,Enough,-11.900221729490028
+S0733,Female,Economics,14.7,95,7.1,2.97,No,52,59,1,C,7,Medium,Enough,13.099778270509972
+S0657,Male,Computer Science,15.2,95,7.2,3.22,No,59,65,1,B,6,Medium,Enough,13.099778270509972
+S0936,Female,Physics,15.3,82,6.2,2.73,No,56,53,1,C,-3,Medium,Enough,0.09977827050997234
+S0511,Female,Biology,13,NA,6.9,2.35,No,43,51,1,C,8,Medium,Enough,NA
+S0514,Male,Biology,11.1,71,7.6,3.27,No,52,56,1,C,4,Medium,Enough,-10.900221729490028
+S0065,Male,Statistics,14.5,79,5.5,3.52,No,51,69,1,B,18,Medium,Short,-2.9002217294900277
+S0735,Male,Statistics,18,NA,NA,3.71,No,55,62,1,B,7,High,NA,NA
+S0265,Male,Biology,10.6,NA,6.5,3.17,No,46,37,0,F,-9,Medium,Enough,NA
+S0865,Female,Computer Science,7.9,74,8.1,2.58,Yes,35,35,0,F,0,Low,Enough,-7.900221729490028
+S0464,Male,Computer Science,11.1,NA,6.4,3.22,No,50,60,1,B,10,Medium,Enough,NA
+S0499,Male,Biology,7.7,72,6.3,3.17,No,54,45,0,F,-9,Low,Enough,-9.900221729490028
+S0021,Male,Physics,16.4,100,6.7,2.63,Yes,58,55,1,C,-3,Medium,Enough,18.099778270509972
+S0368,Female,Biology,17.5,96,8.4,3.77,No,NA,54,1,C,NA,Medium,Enough,14.099778270509972
+S0769,Male,Economics,14,84,7.7,2.74,No,45,41,0,F,-4,Medium,Enough,2.0997782705099723
+S0697,Female,Physics,21.1,81,8.5,3.01,No,64,70,1,A,6,High,Enough,-0.9002217294900277
+S0720,Male,Statistics,15.9,97,9,3.46,No,60,83,1,A,23,Medium,Enough,15.099778270509972
+S0579,NA,NA,18.2,72,6.6,3.26,No,41,57,1,C,16,High,Enough,-9.900221729490028
+S0262,Male,Statistics,10.9,96,7.3,NA,No,48,55,1,C,7,Medium,Enough,14.099778270509972
+S0653,Male,Economics,13.8,73,8.2,2.97,No,43,44,0,F,1,Medium,Enough,-8.900221729490028
+S0721,Male,Economics,16.7,97,7.3,3.32,No,57,60,1,B,3,Medium,Enough,15.099778270509972
+S0807,Male,Physics,11.2,79,5.5,3.26,No,59,51,1,C,-8,Medium,Short,-2.9002217294900277
+S0571,NA,Statistics,17.6,69,7.3,2.99,Yes,55,53,1,C,-2,Medium,Enough,-12.900221729490028
+S0460,Female,Computer Science,24.9,88,7.1,3.55,No,70,66,1,B,-4,High,Enough,6.099778270509972
+S0823,Female,NA,21.1,90,7,2.9,Yes,52,58,1,C,6,High,Enough,8.099778270509972
+S0189,Female,Physics,15.5,73,6.7,2.84,Yes,46,49,0,F,3,Medium,Enough,-8.900221729490028
+S0252,Male,Statistics,3.6,90,7,4,No,46,52,1,C,6,Low,Enough,8.099778270509972
+S0072,Female,Statistics,12,85,5.7,2.98,No,55,55,1,C,0,Medium,Short,3.0997782705099723
+S0665,Female,Statistics,20,78,5.4,2.47,Yes,58,39,0,F,-19,High,Short,-3.9002217294900277
+S0419,Female,Computer Science,14.3,76,7.4,3.65,Yes,51,61,1,B,10,Medium,Enough,-5.900221729490028
+S0337,Female,Computer Science,15.6,87,6.7,2.74,No,50,48,0,F,-2,Medium,Enough,5.099778270509972
+S0910,Male,Physics,1,82,6.9,2.61,No,42,40,0,F,-2,Low,Enough,0.09977827050997234
+S0929,Female,Economics,15.5,82,5.6,2.97,Yes,46,52,1,C,6,Medium,Short,0.09977827050997234
+S0237,Female,Economics,11,81,5.9,2.51,No,53,44,0,F,-9,Medium,Short,-0.9002217294900277
+S0376,Female,Physics,13.9,81,6.2,3.51,No,57,67,1,B,10,Medium,Enough,-0.9002217294900277
+S0558,Male,Biology,10.4,85,6.8,3.19,No,44,47,0,F,3,Medium,Enough,3.0997782705099723
+S0685,Male,Economics,12.1,77,5.6,3.14,Yes,NA,46,0,F,NA,Medium,Short,-4.900221729490028
+S0452,Female,Computer Science,18.4,87,9.2,3.23,No,53,60,1,B,7,High,Enough,5.099778270509972
+S0810,Male,Computer Science,17.8,83,7.7,3.51,Yes,59,68,1,B,9,Medium,Enough,1.0997782705099723
+S0506,Female,Computer Science,6.8,85,7.5,2.72,No,50,54,1,C,4,Low,Enough,3.0997782705099723
+S0678,Female,Computer Science,7.4,83,7,3.33,No,42,57,1,C,15,Low,Enough,1.0997782705099723
+S0834,Male,Economics,11.8,83,7,2.47,Yes,51,39,0,F,-12,Medium,Enough,1.0997782705099723
+S0527,NA,Statistics,21.7,87,6,2.47,No,55,71,1,A,16,High,Enough,5.099778270509972
+S0481,Female,Physics,8,100,5.1,3.01,No,54,58,1,C,4,Low,Short,18.099778270509972
+S0447,Male,Physics,20.6,63,6.9,3.74,No,47,54,1,C,7,High,Enough,-18.900221729490028
+S0219,Male,Computer Science,8.6,100,6.8,3.34,No,65,63,1,B,-2,Low,Enough,18.099778270509972
+S0240,Female,Physics,15.2,83,NA,2.74,Yes,54,57,1,C,3,Medium,NA,1.0997782705099723
+S0753,Male,Economics,22.4,68,6.3,NA,Yes,65,59,1,C,-6,High,Enough,-13.900221729490028
+S0526,Male,Physics,4.1,91,6.2,3.81,No,NA,54,1,C,NA,Low,Enough,9.099778270509972
+S0193,Female,Economics,14.4,73,7.3,3.87,No,64,61,1,B,-3,Medium,Enough,-8.900221729490028
+S0796,Male,Economics,12.5,89,4.8,3.05,No,62,57,1,C,-5,Medium,Short,7.099778270509972
+S0192,Male,Biology,13.9,78,6.7,2.73,No,57,47,0,F,-10,Medium,Enough,-3.9002217294900277
+S0509,Male,Biology,NA,94,6.5,3.3,No,68,61,1,B,-7,NA,Enough,12.099778270509972
+S0436,Male,Statistics,18.7,79,8.3,3.26,No,56,64,1,B,8,High,Enough,-2.9002217294900277
+S0133,Female,Economics,10.8,77,6.6,3.11,No,59,61,1,B,2,Medium,Enough,-4.900221729490028
+S0557,Female,Economics,14.1,96,7.2,2.81,Yes,56,53,1,C,-3,Medium,Enough,14.099778270509972
+S0253,Female,Economics,10.8,82,7.5,3,Yes,44,41,0,F,-3,Medium,Enough,0.09977827050997234
+S0672,Male,Economics,17,84,7.1,3.14,Yes,52,54,1,C,2,Medium,Enough,2.0997782705099723
+S0902,NA,Computer Science,10.6,86,5.7,2.79,No,45,45,0,F,0,Medium,Short,4.099778270509972
+S0264,Male,Statistics,14,76,9.3,2.6,No,NA,49,0,F,NA,Medium,Enough,-5.900221729490028
+S0071,Female,Computer Science,17.4,86,7.3,3.18,No,51,59,1,C,8,Medium,Enough,4.099778270509972
+S0273,Female,Physics,26.7,93,7.2,2.99,No,54,67,1,B,13,High,Enough,11.099778270509972
+S0508,Female,Physics,12.1,65,6,3.45,No,31,53,1,C,22,Medium,Enough,-16.900221729490028
+S0328,Female,Economics,14.4,93,6.6,3.58,NA,49,57,1,C,8,Medium,Enough,11.099778270509972
+S0116,Female,Computer Science,17,78,6.4,3.08,No,63,59,1,C,-4,Medium,Enough,-3.9002217294900277
+S0324,Female,Biology,12.8,78,7.3,3.41,No,58,56,1,C,-2,Medium,Enough,-3.9002217294900277
+S0958,Male,Economics,3.5,92,6.3,3.61,No,47,43,0,F,-4,Low,Enough,10.099778270509972
+S0664,Male,Physics,18.1,83,5.9,2.88,No,54,57,1,C,3,High,Short,1.0997782705099723
+S0867,Male,Statistics,16.5,77,6.7,2,Yes,49,37,0,F,-12,Medium,Enough,-4.900221729490028
+S0505,Female,Computer Science,16,75,5.4,NA,No,63,60,1,B,-3,Medium,Short,-6.900221729490028
+S0621,Female,Computer Science,9.9,96,7.9,3.43,No,64,58,1,C,-6,Low,Enough,14.099778270509972
+S0774,Male,Computer Science,11.3,71,7.1,2.59,Yes,38,51,1,C,13,Medium,Enough,-10.900221729490028
+S0703,Male,Statistics,15.2,83,9.3,3.46,No,64,65,1,B,1,Medium,Enough,1.0997782705099723
+S0446,Female,Economics,24.3,91,6.8,3.14,No,70,76,1,A,6,High,Enough,9.099778270509972
+S0620,Male,Statistics,8.3,74,NA,3.37,Yes,58,55,1,C,-3,Low,NA,-7.900221729490028
+S0752,Female,Computer Science,22.6,91,4.3,3.35,No,63,67,1,B,4,High,Short,9.099778270509972
+S0610,Male,Economics,17.5,73,5.7,3.3,No,50,57,1,C,7,Medium,Short,-8.900221729490028
+S0786,Female,Statistics,16,86,7,2.45,No,60,53,1,C,-7,Medium,Enough,4.099778270509972
+S0868,Female,Physics,16.3,75,6.3,2.61,No,53,53,1,C,0,Medium,Enough,-6.900221729490028
+S0003,Male,NA,13.4,90,7.5,NA,Yes,42,50,1,C,8,Medium,Enough,8.099778270509972
+S0230,Female,Biology,17.1,77,7.7,3.5,Yes,64,56,1,C,-8,Medium,Enough,-4.900221729490028
+S0420,Female,Economics,1.4,74,7.2,4,No,52,54,1,C,2,Low,Enough,-7.900221729490028
+S0924,Female,Statistics,NA,83,6.6,NA,No,46,47,0,F,1,NA,Enough,1.0997782705099723
+S0578,Male,Economics,18.7,75,NA,3.48,No,53,60,1,B,7,High,NA,-6.900221729490028
+S0854,Male,Statistics,17.7,86,5.2,2.94,No,59,65,1,B,6,Medium,Short,4.099778270509972
+S0200,Male,Economics,15.9,75,6.5,3.45,No,62,54,1,C,-8,Medium,Enough,-6.900221729490028
+S0951,Female,Physics,8.4,79,6.9,2.59,No,51,40,0,F,-11,Low,Enough,-2.9002217294900277
+S0516,Male,Statistics,18.4,85,8.4,3,NA,72,68,1,B,-4,High,Enough,3.0997782705099723
+S0066,Male,Biology,18.1,87,6.7,3.63,No,59,59,1,C,0,High,Enough,5.099778270509972
+S0956,Male,Computer Science,22.5,83,5.5,2.48,Yes,54,60,1,B,6,High,Short,1.0997782705099723
+S0041,Male,Computer Science,5,73,6.6,3.78,Yes,57,51,1,C,-6,Low,Enough,-8.900221729490028
+S0743,Female,Economics,18.6,89,6.6,3.49,No,58,61,1,B,3,High,Enough,7.099778270509972
+S0515,Male,Economics,1.2,92,8.9,3.25,NA,46,34,0,F,-12,Low,Enough,10.099778270509972
+S0421,Female,Biology,11.4,80,5.6,3.11,No,NA,48,0,F,NA,Medium,Short,-1.9002217294900277
+S0493,Male,Computer Science,8.1,78,4.9,3.04,No,52,47,0,F,-5,Low,Short,-3.9002217294900277
+S0563,Male,Biology,13.9,NA,5.9,3.66,No,56,71,1,A,15,Medium,Short,NA
+S0274,Male,Physics,19,80,6.2,2.89,Yes,55,57,1,C,2,High,Enough,-1.9002217294900277
+S0695,Female,Statistics,NA,92,7.8,NA,Yes,52,52,1,C,0,NA,Enough,10.099778270509972
+S0628,Male,Physics,8.6,67,6.2,3.49,Yes,56,37,0,F,-19,Low,Enough,-14.900221729490028
+S0758,Female,Biology,7.7,89,5.4,3.42,Yes,49,56,1,C,7,Low,Short,7.099778270509972
+S0178,Female,Biology,21.6,73,6.5,3.17,No,57,63,1,B,6,High,Enough,-8.900221729490028
+S0301,Female,Economics,13.4,97,6.8,3.54,No,66,62,1,B,-4,Medium,Enough,15.099778270509972
+S0038,Male,Biology,4.9,79,6.9,3.22,No,51,55,1,C,4,Low,Enough,-2.9002217294900277
+S0479,Male,Biology,12.9,89,8.3,NA,No,59,57,1,C,-2,Medium,Enough,7.099778270509972
+S0203,NA,Biology,18.2,87,5.9,3.65,No,55,58,1,C,3,High,Short,5.099778270509972
+S0150,Female,Computer Science,18,100,8.1,2.97,No,62,47,0,F,-15,High,Enough,18.099778270509972
+S0218,Male,Computer Science,18,86,7.4,2.8,No,60,65,1,B,5,High,Enough,4.099778270509972
+S0674,Male,Economics,12.4,87,7.5,NA,No,48,61,1,B,13,Medium,Enough,5.099778270509972
+S0565,Male,Statistics,11.2,81,7.6,2.7,No,51,51,1,C,0,Medium,Enough,-0.9002217294900277
+S0912,Female,Statistics,6.9,86,7.9,2.87,No,56,55,1,C,-1,Low,Enough,4.099778270509972
+S0797,Female,Physics,13.5,61,8.4,2.8,No,46,59,1,C,13,Medium,Enough,-20.900221729490028
+S0303,NA,Computer Science,3.6,69,7.5,3.03,Yes,39,35,0,F,-4,Low,Enough,-12.900221729490028
+S0853,Female,Physics,18.1,77,7,2.86,Yes,46,61,1,B,15,High,Enough,-4.900221729490028
+S0913,Male,Physics,NA,80,7.4,3.56,No,53,54,1,C,1,NA,Enough,-1.9002217294900277
+S0668,Male,Economics,10.9,71,7.4,3.35,No,45,41,0,F,-4,Medium,Enough,-10.900221729490028
+S0561,Female,Economics,23.1,83,7.4,3.48,Yes,52,58,1,C,6,High,Enough,1.0997782705099723
+S0389,Female,Computer Science,6.3,64,6.4,3.86,Yes,53,44,0,F,-9,Low,Enough,-17.900221729490028
+S0410,Male,Economics,10.6,99,6.2,4,No,58,54,1,C,-4,Medium,Enough,17.099778270509972
+S0388,NA,NA,14,85,6.8,3.18,No,62,56,1,C,-6,Medium,Enough,3.0997782705099723
+S0535,Male,Biology,12.8,89,NA,3.42,No,62,56,1,C,-6,Medium,NA,7.099778270509972
+S0391,Female,Statistics,9.2,74,8.2,3.23,No,54,58,1,C,4,Low,Enough,-7.900221729490028
+S0829,Female,Economics,13.2,76,8.1,2.38,Yes,42,39,0,F,-3,Medium,Enough,-5.900221729490028
+S0353,Female,Computer Science,17.1,85,8.4,2.42,No,53,55,1,C,2,Medium,Enough,3.0997782705099723
+S0194,Female,Biology,1,65,7.8,2.66,No,37,41,0,F,4,Low,Enough,-16.900221729490028
+S0236,Female,Statistics,NA,NA,6.3,2.96,No,45,61,1,B,16,NA,Enough,NA
+S0611,Female,Statistics,10.9,NA,8.2,3.13,No,45,60,1,B,15,Medium,Enough,NA
+S0831,Female,Computer Science,9,68,5.6,3.61,No,NA,58,1,C,NA,Low,Short,-13.900221729490028
+S0056,Female,Biology,15.6,76,7,3.02,No,55,52,1,C,-3,Medium,Enough,-5.900221729490028
+S0669,NA,Statistics,9.9,66,5.3,3.26,No,55,52,1,C,-3,Low,Short,-15.900221729490028
+S0097,Female,Physics,8.7,75,5.6,3.03,No,43,44,0,F,1,Low,Short,-6.900221729490028
+S0142,Male,Physics,9.4,83,7.8,2.89,No,55,58,1,C,3,Low,Enough,1.0997782705099723
+S0696,Male,Statistics,17.1,93,6.4,2.69,Yes,56,53,1,C,-3,Medium,Enough,11.099778270509972
+S0857,Male,Economics,8,88,6.9,2.87,Yes,53,44,0,F,-9,Low,Enough,6.099778270509972
+S0541,Female,Physics,7.8,100,7,2.29,No,42,48,0,F,6,Low,Enough,18.099778270509972
+S0568,Male,Economics,18.6,65,6.1,3.59,No,52,45,0,F,-7,High,Enough,-16.900221729490028
+S0121,Male,NA,12.3,NA,7.7,2.73,No,50,54,1,C,4,Medium,Enough,NA
+S0597,Female,Economics,10.8,93,7,NA,No,56,51,1,C,-5,Medium,Enough,11.099778270509972
+S0504,Female,Statistics,13.5,92,7.9,3.52,Yes,61,62,1,B,1,Medium,Enough,10.099778270509972
+S0063,Male,Computer Science,3.8,79,6.9,3.42,No,47,58,1,C,11,Low,Enough,-2.9002217294900277
+S0443,Male,Biology,14.9,87,5.5,3.12,No,55,62,1,B,7,Medium,Short,5.099778270509972
+S0415,Female,Computer Science,16.7,67,NA,2.68,No,42,49,0,F,7,Medium,NA,-14.900221729490028
+S0004,Female,Computer Science,9.2,89,7.2,2.76,Yes,52,59,1,C,7,Low,Enough,7.099778270509972
+S0059,Female,Economics,9.8,82,7.8,2.77,No,41,47,0,F,6,Low,Enough,0.09977827050997234
+S0224,Female,Physics,20.4,88,6.2,3.61,Yes,50,56,1,C,6,High,Enough,6.099778270509972
+S0614,Female,Physics,7.7,NA,7.9,NA,No,57,54,1,C,-3,Low,Enough,NA
+S0102,Male,Economics,11.2,NA,6.4,3.41,No,50,57,1,C,7,Medium,Enough,NA
+S0718,Male,Biology,10.2,75,6.2,2.46,No,48,44,0,F,-4,Medium,Enough,-6.900221729490028
+S0456,Male,Biology,10.5,61,6.8,3.33,No,61,45,0,F,-16,Medium,Enough,-20.900221729490028
+S0005,Female,Economics,NA,78,8.3,3.19,No,54,46,0,F,-8,NA,Enough,-3.9002217294900277
+S0053,Male,Statistics,6,NA,9.7,3.42,Yes,65,59,1,C,-6,Low,Enough,NA
+S0018,Female,Statistics,13.7,74,6.3,2.63,Yes,51,42,0,F,-9,Medium,Enough,-7.900221729490028
+S0911,Male,Biology,13.5,78,7.5,2.4,Yes,47,50,1,C,3,Medium,Enough,-3.9002217294900277
+S0983,Female,Physics,13.1,72,5.6,3.79,Yes,45,47,0,F,2,Medium,Short,-9.900221729490028
+S0307,Female,Biology,17.9,76,5.4,2.36,No,48,63,1,B,15,Medium,Short,-5.900221729490028
+S0661,Male,Economics,11.3,76,7.4,3.17,No,47,49,0,F,2,Medium,Enough,-5.900221729490028
+S0156,Female,Economics,23.3,72,7,3.45,Yes,50,63,1,B,13,High,Enough,-9.900221729490028
+S0819,Female,Physics,18.4,86,7.4,3.92,No,67,66,1,B,-1,High,Enough,4.099778270509972
+S0675,Female,Computer Science,8.7,81,7.8,3.71,No,61,54,1,C,-7,Low,Enough,-0.9002217294900277
+S0249,NA,Biology,18.2,72,6.3,3.44,No,43,60,1,B,17,High,Enough,-9.900221729490028
+S0250,Male,Physics,12.6,86,6.4,3.02,Yes,44,37,0,F,-7,Medium,Enough,4.099778270509972
+S0359,Male,Biology,NA,NA,6.3,3.2,No,64,65,1,B,1,NA,Enough,NA
+S0772,Male,Computer Science,NA,69,7.4,2.83,No,44,45,0,F,1,NA,Enough,-12.900221729490028
+S0431,Female,Biology,15,76,8.5,3.27,Yes,59,58,1,C,-1,Medium,Enough,-5.900221729490028
+S0882,Male,Biology,14.8,89,9.6,3.2,NA,52,58,1,C,6,Medium,Enough,7.099778270509972
+S0843,Female,Physics,7.6,80,8.7,3.36,No,45,49,0,F,4,Low,Enough,-1.9002217294900277
+S0031,NA,Statistics,22.1,67,7.8,3.28,No,69,63,1,B,-6,High,Enough,-14.900221729490028
+S0282,Male,Statistics,12.6,61,6.5,2.73,No,49,51,1,C,2,Medium,Enough,-20.900221729490028
+S0960,Male,Statistics,18.5,76,7.1,2.74,No,62,60,1,B,-2,High,Enough,-5.900221729490028
+S0118,Female,Economics,14.2,58,7.9,2.14,No,47,41,0,F,-6,Medium,Enough,-23.900221729490028
+S0898,Female,Physics,6.5,82,6.8,4,No,60,42,0,F,-18,Low,Enough,0.09977827050997234
+S0117,Male,Biology,15,73,7.8,3.28,No,56,58,1,C,2,Medium,Enough,-8.900221729490028
+S0581,Male,Physics,NA,100,7.9,2.8,No,50,67,1,B,17,NA,Enough,18.099778270509972
+S0663,Female,Computer Science,NA,74,6.6,3.26,Yes,38,34,0,F,-4,NA,Enough,-7.900221729490028
+S0028,Male,Computer Science,15.3,66,6.8,3.14,Yes,47,60,1,B,13,Medium,Enough,-15.900221729490028
+S0382,Male,Economics,11.3,99,7.5,3.59,No,64,69,1,B,5,Medium,Enough,17.099778270509972
+S0308,Male,Economics,13,94,5.1,3.07,No,58,59,1,C,1,Medium,Short,12.099778270509972
+S0626,Male,Biology,11.2,81,5,2.61,Yes,48,41,0,F,-7,Medium,Short,-0.9002217294900277
+S0593,Female,Physics,15.9,91,6.9,3.08,Yes,54,54,1,C,0,Medium,Enough,9.099778270509972
+S0201,Male,Computer Science,13,74,7.9,3.08,Yes,53,49,0,F,-4,Medium,Enough,-7.900221729490028
+S0569,Male,Biology,11.9,90,6.5,3.41,No,55,55,1,C,0,Medium,Enough,8.099778270509972
+S0386,Female,Economics,12,80,6.4,2.6,Yes,45,41,0,F,-4,Medium,Enough,-1.9002217294900277
+S0864,Female,Physics,2.5,88,4.5,2.51,No,45,44,0,F,-1,Low,Short,6.099778270509972
+S0659,Male,Economics,NA,70,6.7,2.58,No,70,69,1,B,-1,NA,Enough,-11.900221729490028
+S0900,Female,Statistics,11,89,6.1,NA,Yes,50,54,1,C,4,Medium,Enough,7.099778270509972
+S0793,Female,Biology,9.8,68,7.3,2.52,No,58,59,1,C,1,Low,Enough,-13.900221729490028
+S0724,Female,Physics,13.7,100,NA,2.59,No,49,54,1,C,5,Medium,NA,18.099778270509972
+S0315,Male,Statistics,25.1,64,6.4,2.16,No,51,66,1,B,15,High,Enough,-17.900221729490028
+S0893,Male,Biology,NA,80,7.3,NA,No,53,49,0,F,-4,NA,Enough,-1.9002217294900277
+S0281,Female,Computer Science,8.3,84,7.4,3.03,No,41,53,1,C,12,Low,Enough,2.0997782705099723
+S0946,Female,Biology,14.2,67,6.9,2.91,No,51,47,0,F,-4,Medium,Enough,-14.900221729490028
+S0755,Male,Computer Science,16.8,88,6.3,3.1,No,NA,50,1,C,NA,Medium,Enough,6.099778270509972
+S0354,Female,Economics,14.9,79,5.2,3.17,No,NA,60,1,B,NA,Medium,Short,-2.9002217294900277
+S0642,Female,Biology,9.6,75,6.2,3.69,No,62,60,1,B,-2,Low,Enough,-6.900221729490028
+S0208,Female,Physics,14.8,95,6.6,2.85,No,55,53,1,C,-2,Medium,Enough,13.099778270509972
+S0380,Male,Physics,12.7,73,6.4,3.9,Yes,45,42,0,F,-3,Medium,Enough,-8.900221729490028
+S0879,Male,Computer Science,17.2,90,NA,3.06,No,66,77,1,A,11,Medium,NA,8.099778270509972
+S0413,Female,Economics,17.1,86,5,3.26,No,54,58,1,C,4,Medium,Short,4.099778270509972
+S0790,Male,Statistics,17.5,78,7.8,3.54,No,56,73,1,A,17,Medium,Enough,-3.9002217294900277
+S0024,NA,Statistics,13.4,89,6.8,NA,Yes,49,48,0,F,-1,Medium,Enough,7.099778270509972
+S0341,Female,Physics,10.8,NA,6.2,3.45,No,50,50,1,C,0,Medium,Enough,NA
+S0636,Male,Physics,18.2,81,6.8,3.28,Yes,44,54,1,C,10,High,Enough,-0.9002217294900277
+S0155,Female,Economics,19.1,78,6.4,3.1,No,52,57,1,C,5,High,Enough,-3.9002217294900277
+S0855,Male,Physics,11.5,64,8.1,NA,No,39,45,0,F,6,Medium,Enough,-17.900221729490028
+S0554,Male,Economics,12.8,80,7.7,3.55,No,58,54,1,C,-4,Medium,Enough,-1.9002217294900277
+S0725,Female,Biology,12.5,74,5.5,2.97,Yes,55,51,1,C,-4,Medium,Short,-7.900221729490028
+S0729,Male,Biology,16.6,82,6.5,2.82,No,59,57,1,C,-2,Medium,Enough,0.09977827050997234
+S0784,Female,Statistics,18,72,NA,2.67,No,61,65,1,B,4,High,NA,-9.900221729490028
+S0323,Female,Economics,16.5,78,7.7,3.25,Yes,58,58,1,C,0,Medium,Enough,-3.9002217294900277
+S0771,Female,Physics,12.3,91,5.5,3.2,Yes,46,48,0,F,2,Medium,Short,9.099778270509972
+S0599,Male,Computer Science,16.3,68,NA,2.49,No,50,43,0,F,-7,Medium,NA,-13.900221729490028
+S0583,Female,Physics,7.6,86,7.2,2.52,No,48,40,0,F,-8,Low,Enough,4.099778270509972
+S0566,Female,Biology,15.2,94,7.8,2.92,Yes,56,56,1,C,0,Medium,Enough,12.099778270509972
+S0263,Male,Computer Science,13,79,6.8,4,No,59,70,1,A,11,Medium,Enough,-2.9002217294900277
+S0458,Female,Statistics,22.3,67,6.8,3.57,No,55,67,1,B,12,High,Enough,-14.900221729490028
+S0083,Male,Physics,9.7,67,6.3,2.47,No,41,27,0,F,-14,Low,Enough,-14.900221729490028
+S0408,Male,Biology,19,82,7.4,3.2,No,63,63,1,B,0,High,Enough,0.09977827050997234
+S0465,Female,Statistics,17.3,79,6,2.94,Yes,45,49,0,F,4,Medium,Enough,-2.9002217294900277
+S0962,Male,Computer Science,11.2,80,NA,2.45,No,52,57,1,C,5,Medium,NA,-1.9002217294900277
+S0548,NA,Physics,14,88,6.9,3.21,No,56,61,1,B,5,Medium,Enough,6.099778270509972
+S0039,Female,Computer Science,12.3,80,6.8,3.62,No,NA,58,1,C,NA,Medium,Enough,-1.9002217294900277
+S0418,Male,Statistics,NA,68,6.7,3.35,NA,52,67,1,B,15,NA,Enough,-13.900221729490028
+S0164,Male,Statistics,11.7,84,9.3,2.71,No,52,57,1,C,5,Medium,Enough,2.0997782705099723
+S0334,Female,Economics,19,NA,NA,3.31,No,53,55,1,C,2,High,NA,NA
+S0011,Female,Economics,2.9,100,6.3,3.19,Yes,65,46,0,F,-19,Low,Enough,18.099778270509972
+S0471,Female,Physics,17.7,80,7.2,2.17,Yes,51,39,0,F,-12,Medium,Enough,-1.9002217294900277
+S0033,Female,Statistics,10.2,83,8.6,2.78,Yes,56,55,1,C,-1,Medium,Enough,1.0997782705099723
+S0872,Male,Biology,20.6,72,5.8,4,Yes,54,64,1,B,10,High,Short,-9.900221729490028
+S0383,Female,Physics,6.6,NA,7,3.5,No,44,46,0,F,2,Low,Enough,NA
+S0602,Male,Economics,18.2,93,NA,3.61,No,58,59,1,C,1,High,NA,11.099778270509972
+S0552,Male,Computer Science,18.8,65,5.9,2.92,No,55,57,1,C,2,High,Short,-16.900221729490028
+S0909,Male,Economics,17.9,93,6.6,2.5,No,59,65,1,B,6,Medium,Enough,11.099778270509972
+S0904,Female,Physics,11.9,84,8.1,3.37,No,59,52,1,C,-7,Medium,Enough,2.0997782705099723
+S0379,Male,Statistics,18.6,96,7.2,3.05,No,65,72,1,A,7,High,Enough,14.099778270509972
+S0214,Male,Economics,26.1,75,5,2.84,No,65,64,1,B,-1,High,Short,-6.900221729490028
+S0947,Female,Physics,18.4,74,7.1,2.46,Yes,47,48,0,F,1,High,Enough,-7.900221729490028
+S0134,Male,Biology,NA,70,8.1,2.85,No,43,41,0,F,-2,NA,Enough,-11.900221729490028
+S0347,Female,Physics,22.6,82,5.4,3.18,No,54,71,1,A,17,High,Short,0.09977827050997234
+S0008,Male,Computer Science,4.4,85,7.1,3.52,Yes,43,49,0,F,6,Low,Enough,3.0997782705099723
+S0766,Male,Computer Science,20.2,80,6.5,2.7,No,53,61,1,B,8,High,Enough,-1.9002217294900277
+S0321,Female,Statistics,14.2,93,6.6,3.64,No,56,57,1,C,1,Medium,Enough,11.099778270509972
+S0778,Female,Biology,5.2,88,6.4,2.57,No,42,50,1,C,8,Low,Enough,6.099778270509972
+S0305,Male,Computer Science,17.5,90,6.3,3.05,No,61,61,1,B,0,Medium,Enough,8.099778270509972
+S0032,NA,Economics,18.2,84,5,2.91,Yes,55,47,0,F,-8,High,Short,2.0997782705099723
+S0715,Male,Statistics,NA,74,8.2,2.95,No,44,54,1,C,10,NA,Enough,-7.900221729490028
+S0241,Female,Biology,16.6,91,NA,2.93,Yes,62,50,1,C,-12,Medium,NA,9.099778270509972
+S0723,Male,Computer Science,NA,86,6.7,3.12,No,54,48,0,F,-6,NA,Enough,4.099778270509972
+S0175,Female,Biology,15.1,85,5.8,2.78,NA,47,52,1,C,5,Medium,Short,3.0997782705099723
+S0246,Male,NA,12.6,88,7,NA,Yes,55,58,1,C,3,Medium,Enough,6.099778270509972
+S0057,Male,Computer Science,17.9,90,6.9,NA,No,NA,69,1,B,NA,Medium,Enough,8.099778270509972
+S0747,Female,Computer Science,26.1,88,4.6,2.92,No,65,78,1,A,13,High,Short,6.099778270509972
+S0146,Female,Physics,20.5,79,6.3,3.23,No,68,62,1,B,-6,High,Enough,-2.9002217294900277
+S0091,Male,Computer Science,13.8,90,5.9,3.06,Yes,53,58,1,C,5,Medium,Short,8.099778270509972
+S0393,Male,Statistics,19.8,84,7.8,2.04,No,55,60,1,B,5,High,Enough,2.0997782705099723
+S0360,Male,Physics,14.9,93,7,2.98,No,53,54,1,C,1,Medium,Enough,11.099778270509972
+S0094,Male,Economics,19.5,82,6.9,2.52,No,52,57,1,C,5,High,Enough,0.09977827050997234
+S0830,Male,Biology,11.9,87,4.9,2.87,Yes,49,43,0,F,-6,Medium,Short,5.099778270509972
+S0895,Female,Physics,16.7,78,7,3.39,No,59,54,1,C,-5,Medium,Enough,-3.9002217294900277
+S0377,Male,Economics,5.4,100,NA,NA,No,55,62,1,B,7,Low,NA,18.099778270509972
+S0244,Male,Biology,9.8,69,5.3,3.05,No,47,37,0,F,-10,Low,Short,-12.900221729490028
+S0816,Female,Statistics,10.6,77,7.7,2.68,No,54,56,1,C,2,Medium,Enough,-4.900221729490028
+S0088,Female,Statistics,5.8,98,5.6,2.82,Yes,50,44,0,F,-6,Low,Short,16.099778270509972
+S0215,Female,Economics,11.2,76,6.2,3.23,No,52,47,0,F,-5,Medium,Enough,-5.900221729490028
+S0970,Female,Biology,24.6,82,7.4,NA,Yes,58,61,1,B,3,High,Enough,0.09977827050997234
+S0174,Male,Biology,13.8,NA,7.1,2.9,Yes,52,68,1,B,16,Medium,Enough,NA
+S0426,Female,Statistics,12.9,83,5.9,NA,No,53,61,1,B,8,Medium,Short,1.0997782705099723
+S0770,Male,Computer Science,24.1,66,5.5,2.78,No,56,62,1,B,6,High,Short,-15.900221729490028
+S0119,Male,Biology,12.6,81,8.3,2.96,No,62,57,1,C,-5,Medium,Enough,-0.9002217294900277
+S0120,Female,Computer Science,7.6,99,7,3.61,No,64,51,1,C,-13,Low,Enough,17.099778270509972
+S0903,Female,Statistics,13.7,84,6.6,2.46,Yes,40,41,0,F,1,Medium,Enough,2.0997782705099723
+S0001,Female,Statistics,10.9,70,6.6,3.05,No,55,59,1,C,4,Medium,Enough,-11.900221729490028
+S0395,Female,Physics,16.9,79,6.5,3.46,No,61,62,1,B,1,Medium,Enough,-2.9002217294900277
+S0402,Female,Economics,13.6,95,7.6,2.63,No,63,70,1,A,7,Medium,Enough,13.099778270509972
+S0405,Male,Statistics,22.1,85,7.2,2.45,No,65,55,1,C,-10,High,Enough,3.0997782705099723
+S0612,Female,Computer Science,15.3,73,6.5,2.71,No,49,57,1,C,8,Medium,Enough,-8.900221729490028
+S0619,Female,Computer Science,16.5,93,8,3.13,No,66,66,1,B,0,Medium,Enough,11.099778270509972
+S0163,Female,Physics,15.8,66,7.8,3.08,No,49,50,1,C,1,Medium,Enough,-15.900221729490028
+S0115,Male,Statistics,16,90,6.5,3.92,No,69,74,1,A,5,Medium,Enough,8.099778270509972
+S0151,Male,Economics,18.1,82,6.3,3.17,No,62,66,1,B,4,High,Enough,0.09977827050997234
+S0937,Female,Statistics,24.2,80,6.4,3.6,No,69,77,1,A,8,High,Enough,-1.9002217294900277
+S0806,Female,Biology,12,77,6.4,2.76,Yes,49,42,0,F,-7,Medium,Enough,-4.900221729490028
+S0860,Female,Computer Science,6.8,67,5.7,3.28,No,53,40,0,F,-13,Low,Short,-14.900221729490028
+S0369,Female,Computer Science,7,NA,7.2,3.23,No,55,49,0,F,-6,Low,Enough,NA
+S0478,Female,Statistics,NA,90,7.3,NA,No,52,53,1,C,1,NA,Enough,8.099778270509972
+S0533,Female,Biology,6.5,88,8.2,3.16,NA,55,55,1,C,0,Low,Enough,6.099778270509972
+S0976,Male,Physics,13.7,77,7.1,4,No,73,55,1,C,-18,Medium,Enough,-4.900221729490028
+S0586,Male,NA,9.3,71,6.6,3.11,No,55,44,0,F,-11,Low,Enough,-10.900221729490028
+S0948,Female,Physics,16.7,78,5.2,2.53,No,47,51,1,C,4,Medium,Short,-3.9002217294900277
+S0259,NA,Economics,NA,71,6.5,3.05,No,41,41,0,F,0,NA,Enough,-10.900221729490028
+S0838,Female,Computer Science,16.4,70,5.6,2.9,Yes,51,55,1,C,4,Medium,Short,-11.900221729490028
+S0136,Male,Computer Science,5.4,77,6.5,3.03,No,31,39,0,F,8,Low,Enough,-4.900221729490028
+S0917,Male,Physics,13.5,86,7.9,2.9,No,52,50,1,C,-2,Medium,Enough,4.099778270509972
+S0631,Male,Physics,11.9,80,6.3,NA,No,48,52,1,C,4,Medium,Enough,-1.9002217294900277
+S0502,Male,Physics,13,77,8.6,3.24,No,53,63,1,B,10,Medium,Enough,-4.900221729490028
+S0539,Male,Computer Science,NA,64,6.7,2.93,Yes,51,49,0,F,-2,NA,Enough,-17.900221729490028
+S0650,Female,Biology,NA,91,6.6,NA,Yes,54,54,1,C,0,NA,Enough,9.099778270509972
+S0582,Male,Statistics,16.2,67,5.3,3.52,No,46,48,0,F,2,Medium,Short,-14.900221729490028
+S0344,Male,Statistics,8.7,66,NA,2.71,No,37,45,0,F,8,Low,NA,-15.900221729490028
+S0884,Female,Statistics,17.6,91,7.6,3.56,Yes,59,64,1,B,5,Medium,Enough,9.099778270509972
+S0832,Male,Biology,NA,87,6.3,3.38,No,67,65,1,B,-2,NA,Enough,5.099778270509972
+S0294,Male,Computer Science,13.7,77,NA,3.48,No,58,55,1,C,-3,Medium,NA,-4.900221729490028
+S0365,Male,Biology,12.4,59,4.9,3.38,No,50,56,1,C,6,Medium,Short,-22.900221729490028
+S0624,Female,Computer Science,11.9,65,8.7,2.6,Yes,31,50,1,C,19,Medium,Enough,-16.900221729490028
+S0015,Male,Biology,17.7,82,7,3.28,Yes,NA,65,1,B,NA,Medium,Enough,0.09977827050997234
+S0087,Female,Physics,23.8,87,7.6,2.63,No,64,55,1,C,-9,High,Enough,5.099778270509972
+S0371,Female,Biology,6.7,71,7.4,3.22,NA,37,47,0,F,10,Low,Enough,-10.900221729490028
+S0166,Female,Biology,15.2,92,7.3,2.83,No,61,61,1,B,0,Medium,Enough,10.099778270509972
+S0873,Male,Economics,9.4,85,7.4,2.88,No,46,59,1,C,13,Low,Enough,3.0997782705099723
+S0336,Male,Computer Science,10.5,77,7.2,2.26,No,44,44,0,F,0,Medium,Enough,-4.900221729490028
+S0060,Male,Economics,12.9,87,5,3.34,No,48,61,1,B,13,Medium,Short,5.099778270509972
+S0355,Male,Statistics,22.6,78,7.3,3.16,No,68,74,1,A,6,High,Enough,-3.9002217294900277
+S0425,Male,Statistics,12.9,70,7.9,NA,No,NA,53,1,C,NA,Medium,Enough,-11.900221729490028
+S0293,Female,Computer Science,NA,74,7.4,2.84,No,51,53,1,C,2,NA,Enough,-7.900221729490028
+S0042,Female,Statistics,NA,96,7.7,3.5,No,NA,56,1,C,NA,NA,Enough,14.099778270509972
+S0430,Male,Physics,15.7,98,7.6,3.35,No,60,67,1,B,7,Medium,Enough,16.099778270509972
+S0080,Male,Biology,12.7,93,6.1,2.5,No,40,52,1,C,12,Medium,Enough,11.099778270509972
+S0029,Female,Statistics,15.5,77,NA,3.5,No,59,66,1,B,7,Medium,NA,-4.900221729490028
+S0255,Female,Economics,20.3,88,5.9,3.02,No,57,57,1,C,0,High,Short,6.099778270509972
+S0745,Female,Statistics,13,82,7,3.75,Yes,64,64,1,B,0,Medium,Enough,0.09977827050997234
+S0459,Female,Economics,9.1,92,6,NA,No,32,49,0,F,17,Low,Enough,10.099778270509972
+S0384,Female,Computer Science,14.3,80,6.5,3.24,No,NA,58,1,C,NA,Medium,Enough,-1.9002217294900277
+S0314,Female,Biology,18,92,6.5,2.76,No,53,64,1,B,11,High,Enough,10.099778270509972
+S0085,Male,Economics,20.4,87,5.9,2.84,Yes,44,46,0,F,2,High,Short,5.099778270509972
+S0575,Female,Computer Science,11.7,80,6.6,2.75,No,53,51,1,C,-2,Medium,Enough,-1.9002217294900277
+S0112,NA,Statistics,15.2,NA,7,2.6,Yes,51,55,1,C,4,Medium,Enough,NA
+S0195,Female,Statistics,13.9,70,7.8,2.55,No,44,41,0,F,-3,Medium,Enough,-11.900221729490028
+S0179,Male,Statistics,15.3,100,7.4,2.85,No,61,58,1,C,-3,Medium,Enough,18.099778270509972
+S0877,Male,Computer Science,15.7,87,7.8,3.17,No,58,64,1,B,6,Medium,Enough,5.099778270509972
+S0497,Male,Computer Science,20.4,75,6.8,2.97,No,68,65,1,B,-3,High,Enough,-6.900221729490028
+S0130,Female,Physics,12.3,86,7.3,3.1,No,56,48,0,F,-8,Medium,Enough,4.099778270509972
+S0338,Male,Computer Science,18.8,88,6.4,3.09,Yes,52,62,1,B,10,High,Enough,6.099778270509972
+S0609,Male,Computer Science,8.7,78,6.4,3.86,No,55,65,1,B,10,Low,Enough,-3.9002217294900277
+S0125,Female,Physics,7.4,88,7,2.54,Yes,35,38,0,F,3,Low,Enough,6.099778270509972
+S0949,Female,Computer Science,16.8,NA,7.4,3.25,No,74,78,1,A,4,Medium,Enough,NA
+S0227,Male,Biology,10.1,93,5,2.79,No,59,38,0,F,-21,Medium,Short,11.099778270509972
+S0269,Male,Computer Science,26.8,97,5.8,2.61,No,52,64,1,B,12,High,Short,15.099778270509972
+S0965,Female,Economics,9.4,90,7.5,NA,No,51,57,1,C,6,Low,Enough,8.099778270509972
+S0104,Male,Economics,10.9,69,6.6,3.04,Yes,45,42,0,F,-3,Medium,Enough,-12.900221729490028
+S0594,Male,Economics,17.6,78,6.9,3.73,No,60,69,1,B,9,Medium,Enough,-3.9002217294900277
+S0844,Female,Physics,NA,87,9,2.8,No,66,60,1,B,-6,NA,Enough,5.099778270509972
+S0652,Female,Economics,17.9,78,7.1,3.66,No,58,56,1,C,-2,Medium,Enough,-3.9002217294900277
+S0228,Female,Computer Science,10.3,84,6.1,3.94,Yes,53,62,1,B,9,Medium,Enough,2.0997782705099723
+S0875,Male,Computer Science,14,96,8.2,3.05,No,63,67,1,B,4,Medium,Enough,14.099778270509972
+S0276,Female,Biology,8.4,89,7.6,3.1,No,52,53,1,C,1,Low,Enough,7.099778270509972
+S0127,Male,Biology,19.8,69,6.9,2.58,No,55,54,1,C,-1,High,Enough,-12.900221729490028
+S0406,Male,Statistics,11.5,72,NA,3.08,Yes,42,40,0,F,-2,Medium,NA,-9.900221729490028
+S0881,Female,Physics,13.2,83,4.3,3.11,No,47,54,1,C,7,Medium,Short,1.0997782705099723
+S0037,Female,Statistics,10.3,90,7.3,3.47,No,69,59,1,C,-10,Medium,Enough,8.099778270509972
+S0140,Male,Physics,12.8,81,6.9,3.14,Yes,40,48,0,F,8,Medium,Enough,-0.9002217294900277
+S0304,Female,Statistics,9.3,86,6.6,3.16,No,60,55,1,C,-5,Low,Enough,4.099778270509972
+S0268,Female,Economics,NA,76,6.7,3.41,No,NA,54,1,C,NA,NA,Enough,-5.900221729490028
+S0534,Male,Economics,12.5,62,8.3,3.48,No,51,46,0,F,-5,Medium,Enough,-19.900221729490028
+S0546,Male,Physics,26.2,65,5.5,3.17,No,59,63,1,B,4,High,Short,-16.900221729490028
+S0213,Female,Physics,20.9,89,7.7,3.75,No,62,76,1,A,14,High,Enough,7.099778270509972
+S0469,Male,Physics,12.9,92,6.8,3.78,No,61,56,1,C,-5,Medium,Enough,10.099778270509972
+S0199,Female,Biology,21.8,64,7,2.87,No,55,53,1,C,-2,High,Enough,-17.900221729490028
+S0528,Male,Economics,13.3,85,7.4,3.81,No,NA,63,1,B,NA,Medium,Enough,3.0997782705099723
+S0916,Male,Statistics,9.2,91,7.5,3.09,Yes,50,55,1,C,5,Low,Enough,9.099778270509972
+S0242,Male,Computer Science,11.4,NA,7.7,2.72,Yes,49,37,0,F,-12,Medium,Enough,NA
+S0343,Female,Statistics,11.4,98,NA,NA,Yes,51,55,1,C,4,Medium,NA,16.099778270509972
+S0550,Male,Economics,15.1,83,7.8,4,Yes,47,54,1,C,7,Medium,Enough,1.0997782705099723
+S0387,Male,Computer Science,5.4,84,6.5,3.58,No,58,56,1,C,-2,Low,Enough,2.0997782705099723
+S0850,NA,Economics,18.7,68,7.3,3.73,No,49,56,1,C,7,High,Enough,-13.900221729490028
+S0207,Male,Biology,14.3,79,6.8,2.59,Yes,44,42,0,F,-2,Medium,Enough,-2.9002217294900277
+S0296,Male,Statistics,11.8,77,6.6,2.03,No,48,48,0,F,0,Medium,Enough,-4.900221729490028
+S0851,Male,Biology,11.6,76,6.7,3.53,NA,61,56,1,C,-5,Medium,Enough,-5.900221729490028
+S0074,Female,Computer Science,12,76,6.7,2.55,No,56,48,0,F,-8,Medium,Enough,-5.900221729490028
+S0741,Male,Computer Science,7.4,73,7.2,3.03,No,45,49,0,F,4,Low,Enough,-8.900221729490028
+S0105,Female,Physics,13.8,66,5.1,3.42,No,42,34,0,F,-8,Medium,Short,-15.900221729490028
+S0944,Female,Computer Science,NA,80,6.7,3.65,No,53,63,1,B,10,NA,Enough,-1.9002217294900277
+S0017,Female,NA,14.7,80,7.5,3.24,Yes,60,70,1,A,10,Medium,Enough,-1.9002217294900277
+S0440,Male,Economics,17.3,81,7,2.7,Yes,57,52,1,C,-5,Medium,Enough,-0.9002217294900277
+S0092,Female,Computer Science,22.9,73,7.7,3.46,No,62,60,1,B,-2,High,Enough,-8.900221729490028
+S0089,Male,Biology,NA,94,8,NA,Yes,63,54,1,C,-9,NA,Enough,12.099778270509972
+S0451,Male,Physics,11,93,7,2.73,Yes,NA,54,1,C,NA,Medium,Enough,11.099778270509972
+S0103,Female,Statistics,5.5,78,6.5,2.75,No,52,41,0,F,-11,Low,Enough,-3.9002217294900277
+S0239,Female,NA,10.8,69,6.6,3.16,Yes,NA,38,0,F,NA,Medium,Enough,-12.900221729490028
+S0717,Female,Statistics,11.1,95,8.5,3,No,55,53,1,C,-2,Medium,Enough,13.099778270509972
+S0247,Female,Economics,15.5,83,7.2,3.19,Yes,61,58,1,C,-3,Medium,Enough,1.0997782705099723
+S0709,Female,Economics,19.1,84,8,3.39,Yes,67,63,1,B,-4,High,Enough,2.0997782705099723
+S0158,Male,Statistics,10.6,69,6.4,2.8,No,46,49,0,F,3,Medium,Enough,-12.900221729490028
+S0480,Female,Physics,18.3,72,6.8,3.11,Yes,51,55,1,C,4,High,Enough,-9.900221729490028
+S0646,Male,Economics,9.7,86,5.9,2.92,Yes,45,45,0,F,0,Low,Short,4.099778270509972
+S0815,Female,Computer Science,NA,95,9,3.31,No,57,67,1,B,10,NA,Enough,13.099778270509972
+S0019,Female,Economics,17,70,7.1,2.93,Yes,51,51,1,C,0,Medium,Enough,-11.900221729490028
+S0701,Female,Physics,16.6,75,6.8,3.21,No,45,53,1,C,8,Medium,Enough,-6.900221729490028
+S0122,Female,Computer Science,8.3,81,6.8,NA,No,61,52,1,C,-9,Low,Enough,-0.9002217294900277
+S0827,Male,Economics,19.1,90,7.1,2.71,Yes,60,61,1,B,1,High,Enough,8.099778270509972
+S0700,Male,NA,NA,68,6.1,2.7,Yes,43,50,1,C,7,NA,Enough,-13.900221729490028
+S0275,Male,Economics,10.9,86,5.8,2.82,Yes,52,50,1,C,-2,Medium,Short,4.099778270509972
+S0434,Female,Physics,17.8,86,NA,2.73,No,48,55,1,C,7,Medium,NA,4.099778270509972
+S0888,Male,Economics,12.7,100,6.9,3.47,No,61,66,1,B,5,Medium,Enough,18.099778270509972
+S0761,Male,Physics,18.2,84,6.7,2.81,Yes,NA,51,1,C,NA,High,Enough,2.0997782705099723
+S0826,Female,Economics,10.9,86,6.6,3.03,No,44,43,0,F,-1,Medium,Enough,4.099778270509972
+S0547,Female,Economics,11.2,73,7,2.94,No,46,51,1,C,5,Medium,Enough,-8.900221729490028
+S0182,Female,Economics,11,67,5.7,3.04,No,40,41,0,F,1,Medium,Short,-14.900221729490028
+S0185,Male,Biology,15.6,82,5.5,3.19,No,61,57,1,C,-4,Medium,Short,0.09977827050997234
+S0407,Female,Computer Science,19,89,5.7,3.51,No,56,59,1,C,3,High,Short,7.099778270509972
+S0607,Female,Computer Science,21.1,84,5.9,2.93,NA,59,74,1,A,15,High,Short,2.0997782705099723
+S0693,Female,Physics,5.9,73,4.1,3.54,NA,48,40,0,F,-8,Low,Short,-8.900221729490028
+S0521,Male,Computer Science,8.1,76,5.4,2.91,Yes,40,42,0,F,2,Low,Short,-5.900221729490028
+S0381,Female,Computer Science,12.7,78,7.5,3.2,No,50,62,1,B,12,Medium,Enough,-3.9002217294900277
+S0411,Female,Physics,12.8,78,6.6,3,Yes,42,45,0,F,3,Medium,Enough,-3.9002217294900277
+S0635,Female,Statistics,NA,83,7,2.98,No,50,34,0,F,-16,NA,Enough,1.0997782705099723
+S0370,Female,Economics,8.8,94,6.7,3.22,No,50,55,1,C,5,Low,Enough,12.099778270509972
+S0805,Male,Economics,12.3,95,7.6,3.7,No,60,61,1,B,1,Medium,Enough,13.099778270509972
+S0974,Female,Statistics,9.5,82,5.7,3.46,Yes,52,53,1,C,1,Low,Short,0.09977827050997234
+S0749,Male,Economics,24.6,95,8.3,3.17,Yes,59,68,1,B,9,High,Enough,13.099778270509972
+S0079,Male,Statistics,8,80,6.3,3.62,No,51,57,1,C,6,Low,Enough,-1.9002217294900277
+S0638,Male,Economics,21.4,83,7.5,4,Yes,54,63,1,B,9,High,Enough,1.0997782705099723
+S0608,Male,Statistics,19,75,6.9,3.53,No,58,73,1,A,15,High,Enough,-6.900221729490028
+S0789,Female,Physics,18.1,82,8,2.55,No,53,58,1,C,5,High,Enough,0.09977827050997234
+S0981,Female,NA,9.3,NA,5.7,3.67,No,55,60,1,B,5,Low,Short,NA
+S0822,Male,Physics,15.1,86,7.2,3.13,No,51,58,1,C,7,Medium,Enough,4.099778270509972
+S0915,Female,Statistics,14.5,86,6.6,2.42,No,58,51,1,C,-7,Medium,Enough,4.099778270509972
+S0417,Female,Biology,11.7,91,5.2,3.55,No,59,57,1,C,-2,Medium,Short,9.099778270509972
+S0738,Male,Computer Science,18.2,86,7.6,3.21,Yes,57,59,1,C,2,High,Enough,4.099778270509972
+S0562,Female,Economics,11.3,92,6,3.61,No,55,57,1,C,2,Medium,Enough,10.099778270509972
+S0068,Female,Computer Science,15.6,81,7.7,3.34,No,51,60,1,B,9,Medium,Enough,-0.9002217294900277
+S0537,Male,Biology,13.7,70,7.2,3.46,No,43,43,0,F,0,Medium,Enough,-11.900221729490028
+S0078,Female,Economics,15.2,73,7,3.57,No,65,54,1,C,-11,Medium,Enough,-8.900221729490028
+S0106,Male,Statistics,24.8,81,7.8,3.21,No,56,83,1,A,27,High,Enough,-0.9002217294900277
+S0530,Male,Economics,6.7,85,6.2,2.49,No,44,47,0,F,3,Low,Enough,3.0997782705099723
+S0821,Female,Statistics,13.9,98,7.9,3.3,No,67,64,1,B,-3,Medium,Enough,16.099778270509972
+S0639,Male,Economics,15.1,NA,6.2,3.78,No,65,56,1,C,-9,Medium,Enough,NA
+S0560,Male,Statistics,15.3,85,6.7,2.65,No,48,41,0,F,-7,Medium,Enough,3.0997782705099723
+S0756,Male,Computer Science,12.5,87,7.4,2.08,No,45,50,1,C,5,Medium,Enough,5.099778270509972
+S0691,Female,Computer Science,11,81,8.2,2.75,Yes,41,47,0,F,6,Medium,Enough,-0.9002217294900277
+S0859,Male,Computer Science,11.3,89,7.6,2.65,Yes,47,51,1,C,4,Medium,Enough,7.099778270509972
+S0977,Male,Economics,7.5,97,6.6,3.05,Yes,57,49,0,F,-8,Low,Enough,15.099778270509972
+S0861,Female,Biology,21.6,72,6.8,2.67,No,56,64,1,B,8,High,Enough,-9.900221729490028
+S0736,Female,Computer Science,12,NA,7.3,2.31,Yes,55,57,1,C,2,Medium,Enough,NA
+S0954,Female,Physics,14.5,78,8.4,3.32,No,52,53,1,C,1,Medium,Enough,-3.9002217294900277
+S0491,Male,Economics,1,85,6.8,2.51,Yes,40,46,0,F,6,Low,Enough,3.0997782705099723
+S0835,Female,Economics,13.1,80,7.9,3.39,No,57,61,1,B,4,Medium,Enough,-1.9002217294900277
+S0364,Male,Economics,18.8,69,6.5,3.41,No,57,65,1,B,8,High,Enough,-12.900221729490028
+S0070,Male,Statistics,16.8,80,6.8,3.22,Yes,53,56,1,C,3,Medium,Enough,-1.9002217294900277
+S0549,Female,Economics,8,80,6.6,3.48,No,58,44,0,F,-14,Low,Enough,-1.9002217294900277
+S0161,Male,Economics,18.9,81,7.4,2.89,Yes,56,70,1,A,14,High,Enough,-0.9002217294900277
+S0012,Female,Statistics,18.7,87,6.4,NA,No,66,74,1,A,8,High,Enough,5.099778270509972
+S0145,Male,Economics,8.1,84,6.8,3.49,No,45,57,1,C,12,Low,Enough,2.0997782705099723
+S0518,Male,Computer Science,10.9,85,6.1,3.15,No,56,55,1,C,-1,Medium,Enough,3.0997782705099723
+S0428,Male,Physics,13.6,78,6.2,2.48,No,54,53,1,C,-1,Medium,Enough,-3.9002217294900277
+S0640,Male,Statistics,21.2,88,6.9,2.98,Yes,61,67,1,B,6,High,Enough,6.099778270509972
+S0177,Male,Economics,23.9,75,5.3,3.14,Yes,53,52,1,C,-1,High,Short,-6.900221729490028
+S0441,Female,Statistics,10.6,61,4.7,2.76,No,42,53,1,C,11,Medium,Short,-20.900221729490028
+S0522,Male,Statistics,15.7,76,7.3,2.34,Yes,62,63,1,B,1,Medium,Enough,-5.900221729490028
+S0862,Female,Physics,15.1,100,7.6,3.6,Yes,54,53,1,C,-1,Medium,Enough,18.099778270509972
+S0932,Female,Statistics,9.6,78,5.7,3.36,Yes,65,58,1,C,-7,Low,Short,-3.9002217294900277
+S0689,Male,Computer Science,14.4,100,8,3.02,Yes,51,54,1,C,3,Medium,Enough,18.099778270509972
+S0232,Female,Statistics,18.5,66,7.2,3.39,No,61,65,1,B,4,High,Enough,-15.900221729490028
+S0211,Female,Biology,6.8,89,7.7,3.52,Yes,47,47,0,F,0,Low,Enough,7.099778270509972
+S0641,Male,Biology,15.8,85,NA,4,Yes,61,44,0,F,-17,Medium,NA,3.0997782705099723
+S0144,Male,Biology,13,80,NA,2.91,No,50,53,1,C,3,Medium,NA,-1.9002217294900277
+S0754,Male,Physics,16.5,94,5.1,2.74,Yes,NA,57,1,C,NA,Medium,Short,12.099778270509972
+S0520,Female,Economics,NA,76,8.4,3.51,No,71,65,1,B,-6,NA,Enough,-5.900221729490028
+S0299,Male,NA,9,69,7.8,3.22,Yes,53,36,0,F,-17,Low,Enough,-12.900221729490028
+S0429,Female,Physics,15.2,93,7.9,3.16,No,58,67,1,B,9,Medium,Enough,11.099778270509972
+S0613,Female,Physics,13.7,74,7.5,3.92,No,53,66,1,B,13,Medium,Enough,-7.900221729490028
+S0919,Female,Statistics,7.8,NA,7.5,2.93,No,48,61,1,B,13,Low,Enough,NA
+S0927,Female,Economics,24.5,80,5.1,3.53,No,57,60,1,B,3,High,Short,-1.9002217294900277
+S0009,Female,Economics,20,71,7.3,2.87,No,61,62,1,B,1,High,Enough,-10.900221729490028
+S0157,Male,Physics,11.6,74,7.7,3.07,No,43,34,0,F,-9,Medium,Enough,-7.900221729490028
+S0540,Female,Economics,15.6,81,4.8,2.96,No,56,54,1,C,-2,Medium,Short,-0.9002217294900277
+S0507,Female,Physics,1,79,7.6,3.52,No,44,51,1,C,7,Low,Enough,-2.9002217294900277
+S0437,Female,Economics,9.8,69,8.5,2.8,No,54,62,1,B,8,Low,Enough,-12.900221729490028
+S0267,Female,Statistics,14.3,76,7.7,3.38,No,50,51,1,C,1,Medium,Enough,-5.900221729490028
+S0462,NA,Physics,3.2,94,6.9,3.77,No,51,56,1,C,5,Low,Enough,12.099778270509972
+S0577,Male,Physics,18.5,91,6.7,3.01,Yes,NA,56,1,C,NA,High,Enough,9.099778270509972
+S0339,Male,Computer Science,16.7,86,8.2,3.04,NA,55,69,1,B,14,Medium,Enough,4.099778270509972
+S0256,Female,Physics,21.1,70,6.2,2.84,Yes,51,59,1,C,8,High,Enough,-11.900221729490028
+S0799,Female,Physics,16.8,81,6.4,2.91,No,50,56,1,C,6,Medium,Enough,-0.9002217294900277
+S0841,Female,Statistics,4.7,94,7.6,2.85,No,56,52,1,C,-4,Low,Enough,12.099778270509972
+S0666,Male,Biology,6.5,79,7.2,3.61,Yes,45,51,1,C,6,Low,Enough,-2.9002217294900277
+S0209,Male,Economics,8.5,75,7.2,4,Yes,51,42,0,F,-9,Low,Enough,-6.900221729490028
+S0288,Male,Computer Science,19.5,81,5.6,3.15,No,64,82,1,A,18,High,Short,-0.9002217294900277
+S0002,Female,Physics,15.3,82,6.8,3.32,No,53,58,1,C,5,Medium,Enough,0.09977827050997234
+S0342,Male,Physics,6.6,100,8,3,Yes,52,49,0,F,-3,Low,Enough,18.099778270509972
+S0270,Male,Computer Science,11.5,90,5.9,2.84,No,68,54,1,C,-14,Medium,Short,8.099778270509972
+S0266,Female,Computer Science,18.3,78,7.7,2.74,Yes,47,56,1,C,9,High,Enough,-3.9002217294900277
+S0808,Male,Computer Science,10.7,84,9.5,NA,No,49,60,1,B,11,Medium,Enough,2.0997782705099723
+S0814,Male,Computer Science,4.4,67,5,3.47,Yes,39,44,0,F,5,Low,Short,-14.900221729490028
+S0096,Female,Computer Science,14.2,69,NA,3.36,No,57,69,1,B,12,Medium,NA,-12.900221729490028
+S0959,Female,Economics,17.7,84,6.2,3.63,No,61,66,1,B,5,Medium,Enough,2.0997782705099723
+S0043,NA,Economics,10.6,89,6.8,3.35,Yes,51,56,1,C,5,Medium,Enough,7.099778270509972
+S0869,Female,Statistics,15.6,55,7,3.41,Yes,48,52,1,C,4,Medium,Enough,-26.900221729490028
+S0966,Female,Statistics,16,86,5.7,3.33,Yes,57,69,1,B,12,Medium,Short,4.099778270509972
+S0629,Male,Biology,6.8,97,5.2,3.01,No,47,42,0,F,-5,Low,Short,15.099778270509972
+S0046,Male,Computer Science,11.5,91,7,NA,No,59,57,1,C,-2,Medium,Enough,9.099778270509972
+S0162,NA,Physics,15.7,NA,6.4,3.29,No,43,30,0,F,-13,Medium,Enough,NA
+S0728,Female,Statistics,8.8,NA,6.5,2.69,No,46,44,0,F,-2,Low,Enough,NA
+S0630,Female,Physics,20.5,85,5.4,3.58,No,59,70,1,A,11,High,Short,3.0997782705099723
+S0289,Male,Economics,9.2,67,8,2.98,Yes,51,51,1,C,0,Low,Enough,-14.900221729490028
+S0590,Female,Economics,6.9,78,5.8,3.08,No,49,36,0,F,-13,Low,Short,-3.9002217294900277
+S0885,Male,Economics,16,83,6.8,3.11,Yes,55,47,0,F,-8,Medium,Enough,1.0997782705099723
+S0943,Male,Statistics,17,88,5.9,3.18,Yes,69,58,1,C,-11,Medium,Short,6.099778270509972
+S0576,Female,Biology,11.8,81,7.2,2.97,No,56,65,1,B,9,Medium,Enough,-0.9002217294900277
+S0316,Female,Statistics,11.9,100,6.6,3.01,No,72,68,1,B,-4,Medium,Enough,18.099778270509972
+S0231,Male,Biology,14,77,6.6,NA,No,58,59,1,C,1,Medium,Enough,-4.900221729490028
+S0699,Female,Physics,18.9,85,6.8,3.19,Yes,56,49,0,F,-7,High,Enough,3.0997782705099723
+S0818,Female,Computer Science,13.3,75,7.8,2.73,No,51,50,1,C,-1,Medium,Enough,-6.900221729490028
+S0712,Male,Computer Science,11.2,100,6,2.6,No,54,64,1,B,10,Medium,Enough,18.099778270509972
+S0077,Male,Physics,7.4,67,6.4,2.94,No,45,48,0,F,3,Low,Enough,-14.900221729490028
+S0634,Male,Biology,24.6,84,6,2.69,No,50,47,0,F,-3,High,Enough,2.0997782705099723
+S0964,Female,Biology,11.3,82,7.6,2.81,No,54,44,0,F,-10,Medium,Enough,0.09977827050997234
+S0477,Male,Statistics,10.1,87,7.2,3.13,Yes,48,44,0,F,-4,Medium,Enough,5.099778270509972
+S0671,Male,Statistics,12.5,63,7.9,3.44,No,53,56,1,C,3,Medium,Enough,-18.900221729490028
+S0086,Male,Economics,16.9,70,8,2.84,No,55,54,1,C,-1,Medium,Enough,-11.900221729490028
+S0470,Male,Statistics,23.1,86,8.3,2.7,Yes,63,57,1,C,-6,High,Enough,4.099778270509972
+S0226,Male,NA,17.4,74,8.4,3.14,Yes,56,63,1,B,7,Medium,Enough,-7.900221729490028
+S0775,Female,Economics,17.1,77,7.7,2.41,No,47,56,1,C,9,Medium,Enough,-4.900221729490028
+S0332,Female,Statistics,11.2,79,7.6,3.14,No,56,45,0,F,-11,Medium,Enough,-2.9002217294900277
+S0234,Male,Economics,22.3,93,5.1,2.57,No,59,69,1,B,10,High,Short,11.099778270509972
+S0589,Female,Economics,16.3,69,7.6,3.01,Yes,53,49,0,F,-4,Medium,Enough,-12.900221729490028
+S0476,Male,Computer Science,11.5,94,6.4,2.7,No,59,55,1,C,-4,Medium,Enough,12.099778270509972
+S0883,Male,Statistics,12.8,78,5.9,NA,No,60,43,0,F,-17,Medium,Short,-3.9002217294900277
+S0863,Male,Physics,15.6,78,6.5,3.33,No,53,44,0,F,-9,Medium,Enough,-3.9002217294900277
+S0600,Male,Physics,13.4,84,6.2,3.6,Yes,51,55,1,C,4,Medium,Enough,2.0997782705099723
+S0688,Female,Computer Science,24.3,87,7.5,3.85,NA,65,67,1,B,2,High,Enough,5.099778270509972
+S0183,Male,Statistics,17.5,80,6.8,4,No,60,70,1,A,10,Medium,Enough,-1.9002217294900277
+S0333,Female,Computer Science,10.3,NA,5.6,3.36,No,53,38,0,F,-15,Medium,Short,NA
+S0439,Female,Computer Science,10,75,7.9,3.5,Yes,40,40,0,F,0,Medium,Enough,-6.900221729490028
+S0050,Male,Statistics,18.6,81,7.5,2.39,No,53,56,1,C,3,High,Enough,-0.9002217294900277
+S0006,Male,Computer Science,16.3,70,7.3,3.33,No,53,67,1,B,14,Medium,Enough,-11.900221729490028
+S0235,Female,Computer Science,6.9,93,5.7,2.17,NA,45,38,0,F,-7,Low,Short,11.099778270509972
+S0897,Male,Computer Science,16.5,89,NA,3.41,Yes,57,54,1,C,-3,Medium,NA,7.099778270509972
+S0498,Male,Statistics,14,93,5.6,3.17,No,73,72,1,A,-1,Medium,Short,11.099778270509972
+S0891,Male,Computer Science,6.2,70,5.8,2.86,Yes,36,49,0,F,13,Low,Short,-11.900221729490028
+S0107,Female,Economics,10.8,97,7.8,3.49,No,55,57,1,C,2,Medium,Enough,15.099778270509972
+S0444,Male,Physics,12.8,97,NA,3.46,No,52,52,1,C,0,Medium,NA,15.099778270509972
+S0489,Male,Economics,6.6,89,6.3,3.05,No,48,50,1,C,2,Low,Enough,7.099778270509972
+S0647,Female,Economics,19.6,96,5.9,3.6,No,72,71,1,A,-1,High,Short,14.099778270509972
+S0013,Female,Biology,9.5,63,6.9,3.4,No,41,46,0,F,5,Low,Enough,-18.900221729490028
+S0739,Male,Economics,11.1,82,7.8,3.32,Yes,49,48,0,F,-1,Medium,Enough,0.09977827050997234
+S0727,Male,Biology,18,76,6.5,3.2,Yes,58,55,1,C,-3,High,Enough,-5.900221729490028
+S0191,Male,Biology,13.2,78,6.7,3.22,No,47,52,1,C,5,Medium,Enough,-3.9002217294900277
+S0833,Male,Biology,16.2,100,5.8,2.95,No,65,66,1,B,1,Medium,Short,18.099778270509972
+S0283,NA,Physics,13.8,85,7.5,3.6,Yes,63,57,1,C,-6,Medium,Enough,3.0997782705099723
+S0030,Male,Computer Science,13.6,75,7,3.12,No,57,51,1,C,-6,Medium,Enough,-6.900221729490028
+S0170,Female,Physics,13.9,76,6.1,2.38,No,44,50,1,C,6,Medium,Enough,-5.900221729490028
+S0181,Female,Statistics,24.6,90,7.3,3.21,No,73,64,1,B,-9,High,Enough,8.099778270509972
+S0101,NA,Economics,22.3,94,5.7,2.83,Yes,59,57,1,C,-2,High,Short,12.099778270509972
+S0198,Male,Biology,19,82,6.2,3.21,No,53,65,1,B,12,High,Enough,0.09977827050997234
+S0496,Male,Statistics,14.5,85,7.8,2,No,NA,47,0,F,NA,Medium,Enough,3.0997782705099723
+S0722,Male,Biology,NA,81,6.1,3.04,No,55,58,1,C,3,NA,Enough,-0.9002217294900277
+S0648,Female,Economics,16.3,84,6.6,3.36,No,51,59,1,C,8,Medium,Enough,2.0997782705099723
+S0969,Male,Biology,15.4,82,6.5,2.71,Yes,44,57,1,C,13,Medium,Enough,0.09977827050997234
+S0925,Male,Statistics,9.2,96,7.8,4,No,71,67,1,B,-4,Low,Enough,14.099778270509972
+S0711,Female,Computer Science,13.3,97,6.5,3.24,Yes,55,61,1,B,6,Medium,Enough,15.099778270509972
+S0374,Male,Physics,4.2,92,7,4,No,47,46,0,F,-1,Low,Enough,10.099778270509972
+S0679,Male,Statistics,16.9,98,7.2,2.1,Yes,49,58,1,C,9,Medium,Enough,16.099778270509972
+S0649,Male,Computer Science,8.6,63,7.3,2.43,Yes,39,41,0,F,2,Low,Enough,-18.900221729490028
+S0798,Female,Physics,11.5,95,7,3.04,Yes,52,41,0,F,-11,Medium,Enough,13.099778270509972
+S0461,Female,Economics,14.3,80,7.2,3.55,No,63,57,1,C,-6,Medium,Enough,-1.9002217294900277
+S0414,Female,Statistics,9,91,5,2.31,No,35,39,0,F,4,Low,Short,9.099778270509972
+S0132,Female,Computer Science,13.5,70,8.1,2.9,Yes,44,45,0,F,1,Medium,Enough,-11.900221729490028
+S0040,Female,Economics,9.6,100,7.5,2.81,No,50,54,1,C,4,Low,Enough,18.099778270509972
+S0435,Female,Economics,13,80,7.4,3.42,Yes,55,50,1,C,-5,Medium,Enough,-1.9002217294900277
+S0216,Male,Economics,12.9,83,5.4,3.41,No,57,62,1,B,5,Medium,Short,1.0997782705099723
+S0556,Male,Physics,25.6,79,6,NA,No,60,65,1,B,5,High,Enough,-2.9002217294900277
+S0567,Female,Computer Science,13,77,5.6,2.54,No,NA,57,1,C,NA,Medium,Short,-4.900221729490028
+S0763,Male,Biology,6.2,81,9,3.29,Yes,51,52,1,C,1,Low,Enough,-0.9002217294900277
+S0475,Male,Physics,9.6,84,8.2,2.69,No,39,48,0,F,9,Low,Enough,2.0997782705099723
+S0457,Male,Physics,13.1,86,NA,3.82,Yes,58,62,1,B,4,Medium,NA,4.099778270509972
+S0812,Female,Statistics,11,80,7.7,NA,Yes,46,47,0,F,1,Medium,Enough,-1.9002217294900277
+S0261,Female,Biology,12.8,71,5.2,2.45,Yes,51,41,0,F,-10,Medium,Short,-10.900221729490028
+S0817,Male,Biology,23.4,71,4,4,Yes,55,63,1,B,8,High,Short,-10.900221729490028
+S0036,Male,Economics,16.3,88,6.5,3.35,No,62,61,1,B,-1,Medium,Enough,6.099778270509972
+S0828,Male,Statistics,14.7,82,6.9,2.66,No,61,66,1,B,5,Medium,Enough,0.09977827050997234
+S0310,Male,NA,13.6,74,8,3.38,Yes,47,63,1,B,16,Medium,Enough,-7.900221729490028
+S0277,Male,Computer Science,19.4,87,5.8,4,No,69,66,1,B,-3,High,Short,5.099778270509972
+S0637,Female,Economics,5.6,77,7.2,3.23,Yes,51,44,0,F,-7,Low,Enough,-4.900221729490028
+S0655,Female,Biology,3,58,6.6,2.89,No,49,35,0,F,-14,Low,Enough,-23.900221729490028
+S0623,Female,Physics,10.8,77,6.4,3.83,Yes,44,41,0,F,-3,Medium,Enough,-4.900221729490028
+S0836,NA,Biology,25.9,95,7.9,3.83,No,65,79,1,A,14,High,Enough,13.099778270509972
+S0845,Male,Biology,14.8,84,7.7,4,No,70,76,1,A,6,Medium,Enough,2.0997782705099723
+S0394,Female,Biology,12.3,71,7.5,3.34,No,51,57,1,C,6,Medium,Enough,-10.900221729490028
+S0934,Male,Biology,12.7,89,8.2,2.71,No,NA,65,1,B,NA,Medium,Enough,7.099778270509972
+S0108,Male,NA,6.8,85,6.2,2.4,No,43,41,0,F,-2,Low,Enough,3.0997782705099723
+S0940,Female,Economics,16.7,94,7.5,3.36,No,67,76,1,A,9,Medium,Enough,12.099778270509972
+S0525,Female,Biology,18.9,90,4.9,NA,No,58,72,1,A,14,High,Short,8.099778270509972
+S0785,Female,Computer Science,16.1,100,6.7,3.55,No,55,69,1,B,14,Medium,Enough,18.099778270509972
+S0048,Female,Economics,12.2,72,8.6,3.37,No,49,54,1,C,5,Medium,Enough,-9.900221729490028
+S0204,Female,Biology,14.9,91,6.6,3.1,Yes,62,76,1,A,14,Medium,Enough,9.099778270509972
+S0922,Female,Computer Science,NA,96,7.2,4,Yes,60,55,1,C,-5,NA,Enough,14.099778270509972
+S0632,Male,Computer Science,NA,72,NA,3.16,Yes,51,54,1,C,3,NA,NA,-9.900221729490028
+S0022,Female,Statistics,NA,68,6.1,3.19,No,57,59,1,C,2,NA,Enough,-13.900221729490028
+S0403,NA,Biology,14.9,76,7.3,3.15,No,47,42,0,F,-5,Medium,Enough,-5.900221729490028
+S0084,NA,Computer Science,14.6,84,6.5,3.01,Yes,58,60,1,B,2,Medium,Enough,2.0997782705099723
+S0131,Male,Economics,7.9,69,6.9,3.1,No,49,48,0,F,-1,Low,Enough,-12.900221729490028
+S0416,Female,Economics,NA,81,5.6,3.03,No,61,64,1,B,3,NA,Short,-0.9002217294900277
+S0979,Female,Economics,10.1,75,7.4,3.58,Yes,45,58,1,C,13,Medium,Enough,-6.900221729490028
+S0842,Male,Physics,18.2,64,7.7,2.36,No,42,47,0,F,5,High,Enough,-17.900221729490028
+S0742,Male,Computer Science,25.7,86,6.5,2.6,Yes,47,66,1,B,19,High,Enough,4.099778270509972
+S0698,Female,Computer Science,8.9,81,6.2,3.37,Yes,45,45,0,F,0,Low,Enough,-0.9002217294900277
+S0287,Female,Physics,11,92,NA,NA,Yes,52,58,1,C,6,Medium,NA,10.099778270509972
+S0124,NA,Physics,6.9,90,6.9,2.88,Yes,50,47,0,F,-3,Low,Enough,8.099778270509972
+S0971,Male,Physics,8.8,87,5.1,3.39,No,53,61,1,B,8,Low,Short,5.099778270509972
+S0517,Male,Economics,13.7,67,6.8,2.79,Yes,51,44,0,F,-7,Medium,Enough,-14.900221729490028
+S0020,Male,Computer Science,12.8,89,5.5,2.63,Yes,53,42,0,F,-11,Medium,Short,7.099778270509972
+S0923,Female,Statistics,13,100,7.2,2.34,No,59,65,1,B,6,Medium,Enough,18.099778270509972
+S0220,Male,Statistics,18.8,82,NA,2.54,No,54,58,1,C,4,High,NA,0.09977827050997234
+S0892,Male,NA,19.3,83,6.9,2.67,No,NA,54,1,C,NA,High,Enough,1.0997782705099723
+S0482,Male,Statistics,12.1,75,6.8,3.57,No,56,57,1,C,1,Medium,Enough,-6.900221729490028
+S0357,Male,Physics,17.1,82,5.2,2.37,No,45,44,0,F,-1,Medium,Short,0.09977827050997234
+S0662,Male,Physics,10.3,100,5.8,2.17,No,47,32,0,F,-15,Medium,Short,18.099778270509972
+S0225,Male,Statistics,8,67,6.2,3.33,No,43,41,0,F,-2,Low,Enough,-14.900221729490028
+S0760,Female,Statistics,18,73,5.6,2.22,No,49,46,0,F,-3,High,Short,-8.900221729490028
+S0093,Female,Economics,12.3,79,7.6,2.95,No,45,51,1,C,6,Medium,Enough,-2.9002217294900277
+S0152,NA,Computer Science,18.1,85,6.6,3.23,Yes,67,55,1,C,-12,High,Enough,3.0997782705099723
+S0978,Male,Economics,7.6,84,6.2,2.93,Yes,46,41,0,F,-5,Low,Enough,2.0997782705099723
+S0318,Female,Economics,8.1,90,6.3,3.35,No,52,46,0,F,-6,Low,Enough,8.099778270509972
+S0449,Female,Physics,18.9,79,6.6,2.93,No,59,60,1,B,1,High,Enough,-2.9002217294900277
+S0804,Male,Biology,21.2,92,6.9,2.7,Yes,61,63,1,B,2,High,Enough,10.099778270509972
+S0746,Male,Computer Science,7.9,100,7.3,2.39,Yes,54,51,1,C,-3,Low,Enough,18.099778270509972
+S0523,Female,Computer Science,14.1,90,6.4,2.65,No,63,57,1,C,-6,Medium,Enough,8.099778270509972
+S0280,Male,Statistics,13.9,92,6.1,3.6,Yes,49,59,1,C,10,Medium,Enough,10.099778270509972
+S0584,Female,Biology,20,79,NA,NA,No,68,63,1,B,-5,High,NA,-2.9002217294900277
+S0765,Male,Physics,10.3,64,5.7,3.27,No,58,46,0,F,-12,Medium,Short,-17.900221729490028
+S0605,Male,Computer Science,8.5,90,6.6,3.22,No,59,61,1,B,2,Low,Enough,8.099778270509972
+S0350,Female,Biology,21.2,91,4.9,2.33,No,62,59,1,C,-3,High,Short,9.099778270509972
+S0928,Male,Computer Science,9.3,NA,NA,3.16,Yes,60,52,1,C,-8,Low,NA,NA
+S0375,Female,Computer Science,NA,69,8.3,3.24,Yes,48,50,1,C,2,NA,Enough,-12.900221729490028
+S0705,Female,Statistics,9.3,73,6.9,2.79,Yes,40,52,1,C,12,Low,Enough,-8.900221729490028
+S0258,Male,Computer Science,8.7,93,7.2,2.83,Yes,52,51,1,C,-1,Low,Enough,11.099778270509972
+S0945,Male,Biology,13.1,91,8.2,2,No,51,48,0,F,-3,Medium,Enough,9.099778270509972
+S0852,Female,Statistics,NA,70,5.6,2.68,No,51,58,1,C,7,NA,Short,-11.900221729490028
+S0073,Male,Computer Science,17.8,79,5.6,2.65,No,50,51,1,C,1,Medium,Short,-2.9002217294900277
+S0196,Female,Physics,6.5,80,5.7,2.62,Yes,35,45,0,F,10,Low,Short,-1.9002217294900277
+S0484,Male,Statistics,17.5,65,6.4,2.82,No,52,51,1,C,-1,Medium,Enough,-16.900221729490028
+S0856,Female,Computer Science,21.5,81,5.3,2.94,Yes,48,56,1,C,8,High,Short,-0.9002217294900277
+S0138,Female,Economics,17.6,NA,6.8,2.95,No,58,61,1,B,3,Medium,Enough,NA
+S0495,Female,Physics,10.4,94,6.9,3.65,No,56,43,0,F,-13,Medium,Enough,12.099778270509972
+S0773,NA,Statistics,7.6,73,6,3.06,Yes,56,45,0,F,-11,Low,Enough,-8.900221729490028
+S0551,Female,Biology,11.9,71,5.7,3.11,Yes,46,47,0,F,1,Medium,Short,-10.900221729490028
+S0463,Male,Physics,17,67,6.5,2.72,No,53,47,0,F,-6,Medium,Enough,-14.900221729490028
+S0202,Male,Physics,17.6,86,6.6,3.69,No,76,69,1,B,-7,Medium,Enough,4.099778270509972
+S0313,Male,Physics,9.4,67,5.2,3.35,Yes,50,41,0,F,-9,Low,Short,-14.900221729490028
+S0291,Female,Economics,14.1,85,5.9,2.77,No,48,59,1,C,11,Medium,Short,3.0997782705099723
+S0190,NA,Economics,4,79,6.4,3.52,No,52,53,1,C,1,Low,Enough,-2.9002217294900277
+S0764,Male,Statistics,14.8,64,5.4,3.57,No,40,47,0,F,7,Medium,Short,-17.900221729490028
+S0113,Female,Statistics,NA,87,7.9,2.79,Yes,54,61,1,B,7,NA,Enough,5.099778270509972
+S0950,Male,Biology,11.7,100,NA,3.36,No,61,69,1,B,8,Medium,NA,18.099778270509972
+S0184,Male,Physics,26.5,79,6.4,3.04,No,59,65,1,B,6,High,Enough,-2.9002217294900277
+S0153,Male,Computer Science,17.3,62,8,NA,NA,55,50,1,C,-5,Medium,Enough,-19.900221729490028
+S0825,Male,Computer Science,8,75,6.3,3.09,No,52,62,1,B,10,Low,Enough,-6.900221729490028
+S0326,Male,Computer Science,11.5,81,5.7,2.72,No,55,51,1,C,-4,Medium,Short,-0.9002217294900277
+S0704,Female,Biology,5.2,76,7.4,2.77,No,54,50,1,C,-4,Low,Enough,-5.900221729490028
+S0045,Male,Computer Science,9.9,84,8.1,3.3,Yes,53,49,0,F,-4,Low,Enough,2.0997782705099723
+S0445,Male,Statistics,13.1,63,7.5,3.89,No,47,56,1,C,9,Medium,Enough,-18.900221729490028
+S0788,Male,Statistics,13.3,89,7,2.46,No,47,41,0,F,-6,Medium,Enough,7.099778270509972
+S0251,Male,Computer Science,18.6,71,6.9,2.9,Yes,54,52,1,C,-2,High,Enough,-10.900221729490028
+S0824,Male,Computer Science,5.8,98,NA,2.52,No,48,53,1,C,5,Low,NA,16.099778270509972
+S0076,Female,Statistics,5.4,94,5,3.4,No,53,49,0,F,-4,Low,Short,12.099778270509972
+S0513,Female,Statistics,NA,89,4.6,3.64,Yes,57,50,1,C,-7,NA,Short,7.099778270509972
+S0941,Female,Physics,16.7,82,7.8,3.31,No,48,64,1,B,16,Medium,Enough,0.09977827050997234
+S0392,Female,Biology,1,86,7.9,3.12,Yes,38,35,0,F,-3,Low,Enough,4.099778270509972
+S0896,Male,Physics,10.9,93,8.6,2.75,No,67,69,1,B,2,Medium,Enough,11.099778270509972
+S0433,Male,Biology,NA,65,6.3,2.87,No,43,43,0,F,0,NA,Enough,-16.900221729490028
+S0069,Male,Statistics,12.3,78,7.5,3.19,Yes,65,60,1,B,-5,Medium,Enough,-3.9002217294900277
+S0168,Female,Statistics,21.2,84,NA,3.04,No,59,66,1,B,7,High,NA,2.0997782705099723
+S0905,Female,Biology,18.8,63,6.7,3.4,Yes,57,52,1,C,-5,High,Enough,-18.900221729490028
+S0731,Male,Computer Science,12.4,71,5.4,3.21,No,50,53,1,C,3,Medium,Short,-10.900221729490028
+S0555,Male,Physics,14.3,90,NA,2.89,Yes,49,47,0,F,-2,Medium,NA,8.099778270509972
+S0367,Female,Statistics,19.2,84,6.9,3.35,No,55,71,1,A,16,High,Enough,2.0997782705099723
+S0346,Male,Biology,5.9,59,5.7,2.53,Yes,26,22,0,F,-4,Low,Short,-22.900221729490028
+S0585,Female,Biology,11,71,4.5,3.11,No,38,39,0,F,1,Medium,Short,-10.900221729490028
+S0536,Male,Physics,11.4,90,7.1,2.82,No,48,49,0,F,1,Medium,Enough,8.099778270509972
+S0399,Male,Physics,7.3,88,5.8,2.93,No,54,53,1,C,-1,Low,Short,6.099778270509972
+S0186,Female,Computer Science,19,85,6.6,3.51,No,58,66,1,B,8,High,Enough,3.0997782705099723
+S0349,Male,Physics,10.7,79,6.5,3.82,No,39,45,0,F,6,Medium,Enough,-2.9002217294900277
+S0616,Female,Physics,23.1,89,5.6,2.89,Yes,50,56,1,C,6,High,Short,7.099778270509972
+S0920,Female,Computer Science,10.2,74,6.1,NA,No,43,38,0,F,-5,Medium,Enough,-7.900221729490028
+S0212,Male,Economics,15.3,NA,9.1,3.21,Yes,49,63,1,B,14,Medium,Enough,NA
+S0580,Female,Economics,13.4,65,7.2,4,Yes,58,53,1,C,-5,Medium,Enough,-16.900221729490028
+S0503,Male,Computer Science,15.3,89,6.6,3.42,Yes,54,60,1,B,6,Medium,Enough,7.099778270509972
+S0538,Male,Physics,18,58,8.1,2.61,No,39,38,0,F,-1,High,Enough,-23.900221729490028
+S0197,Male,Physics,15.2,87,8.9,3,Yes,53,56,1,C,3,Medium,Enough,5.099778270509972
+S0176,Female,Statistics,18,67,6.1,2.97,No,52,55,1,C,3,High,Enough,-14.900221729490028

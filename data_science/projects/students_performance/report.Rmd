@@ -1,0 +1,77 @@
+---
+title: "What Predicts Students' Final Scores?"
+author: "Muktadir Somio"
+date: today
+format:
+  html:
+    toc: true
+    embed-resources: true
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+library(tidyverse)
+library(broom)
+
+dat <- read_csv("stdnt_perf_clean.csv")
+
+fit <- lm(final_score ~ study_hours_week + attendance_pct + prior_gpa +
+            sleep_hours + part_time_job, data = dat)
+est <- tidy(fit, conf.int = TRUE)
+study_est <- est |> filter(term == "study_hours_week")
+job_est   <- est |> filter(term == "part_time_jobYes")
+r2 <- glance(fit)$r.squared
+```
+
+## Summary
+
+We studied `r nrow(dat)` students after cleaning the raw file.
+Each extra weekly study hour is linked with about
+`r round(study_est$estimate, 2)` more points on the final exam
+(95% CI `r round(study_est$conf.low, 2)` to `r round(study_est$conf.high, 2)`),
+holding the other factors fixed. Students with a part-time job score about
+`r round(abs(job_est$estimate), 1)` points lower. Together, the model explains
+`r round(100 * r2)`% of the variation in final scores.
+
+## Data
+
+```{r}
+#| label: tbl-data
+dat |>
+  summarise(Students = n(),
+            `Mean final score` = round(mean(final_score), 1),
+            `Pass rate` = scales::percent(mean(passed), accuracy = 1)) |>
+  knitr::kable()
+```
+
+## Main finding
+
+```{r}
+#| label: fig-study
+#| fig-cap: "Study hours and final score (line = linear fit)."
+ggplot(dat, aes(study_hours_week, final_score)) +
+  geom_point(alpha = 0.35) +
+  geom_smooth(method = "lm", se = TRUE) +
+  labs(x = "Study hours per week", y = "Final score")
+```
+
+## Model results
+
+```{r}
+#| label: tbl-model
+est |>
+  mutate(across(where(is.numeric), \(x) round(x, 3))) |>
+  select(Term = term, Estimate = estimate, `Std. error` = std.error,
+         `p-value` = p.value, Lower = conf.low, Upper = conf.high) |>
+  knitr::kable()
+```
+
+## Limits
+
+- This is observational data, so the results show association, not cause.
+- Rows with missing values were left out of the model.
+- The model explains part of the variation, not all of it.
